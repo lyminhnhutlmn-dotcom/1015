@@ -4,7 +4,8 @@
 
 Bản này quay được. Một tập. Một địa điểm. Hai câu.
 
-Phân cảnh (cảm · voice · bối cảnh · nhân vật): `phan-canh-tap-01.md`.
+Phân cảnh + ảnh Seedream (file riêng Tập 1): [`tap-01-phan-canh-va-anh.md`](tap-01-phan-canh-va-anh.md).  
+Phân cảnh chữ: `phan-canh-tap-01.md`.
 
 | | |
 |---|---|

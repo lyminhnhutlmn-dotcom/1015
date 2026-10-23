@@ -2,6 +2,8 @@
 # Kịch bản phân cảnh · Cảm · Voice · Bối cảnh · Nhân vật
 # Bản 2 — nhiều cảm hơn
 
+**File Tập 1 có ảnh Seedream:** [`tap-01-phan-canh-va-anh.md`](tap-01-phan-canh-va-anh.md)
+
 9:16 · 60 giây · tiếng Việt.
 
 Tập này không kể âm mưu. Tập này là **một người chị biết mình có thể không về**, để lại bốn số cho em, rồi chạy.
