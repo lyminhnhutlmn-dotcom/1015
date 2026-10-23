@@ -132,36 +132,25 @@ Mọi set phải **đọc được thành ba lớp**: gần / giữa / xa. Nếu
 
 ---
 
-## Set phụ — cùng luật, chưa plate
+## Trang đủ set
 
-| Set | Ba lớp | Sáng |
-|---|---|---|
-| Cầu thang bộ Skyline | tay vịn / chiếu nghỉ / giếng thang | đèn khẩn cấp xanh, bước chân dưới |
-| Căn 1508 | ngăn kéo trống / phòng / cửa sổ | ban ngày phẳng *cố ý* — đã bị lục, hết bóng người |
-| Căn 1015 bà Lan | xích cửa / phòng khách / lịch tủ lạnh | ren cửa sổ chiều, ấm nhà giáo |
-| Toà soạn | con trỏ / bàn / hàng máy | huỳnh quang mệt |
-| Quán cà phê Nguyễn Du | ly đen / bàn / phố | nắng vỉa hè, Lực không đường |
-| Viện kiểm nghiệm | dải giấy / máy in / kính | trắng lâm sàng, một con dấu đỏ |
-| Hành lang khoa nhi | cây dịch / ghế / cuối hành lang | đèn bệnh viện, không ward rộng |
-| Kho Bình Chánh (flash) | mưa / cửa kho / bóng | sodium ướt, hai năm trước |
-| Hẻm đuổi / đường ray | xe gần / chợ / ray mất hút | neon ướt chiều |
-| Phòng VIP tầng 20 | USB / kính / thành phố | vàng giả vs đêm thật |
-| Booth kỹ thuật | fader / rack / khe nhìn sân khấu | xanh monitor |
-| Cổng sau khách sạn | còng / van / flash phố | practical cảnh sát, không PR |
+Hết 33 plate — không còn set phụ chưa ảnh: [`trang-boi-canh.md`](trang-boi-canh.md).
+
+Cầu thang · sảnh · 1508 · phòng rác · quán phở nội · toà soạn · 1015 · café Nguyễn Du · xóm chài · kho Bình Chánh · tầng 18 · viện · khoa nhi · phòng công an · Tao Đàn · khách sạn mini · hẻm đuổi · thảm đỏ · booth · VIP 20 · cổng sau.
 
 ---
 
 ## Quay tuần — gộp theo ánh sáng, không theo số tập
 
-| Đêm / ngày | Gộp | Plate |
+| Đêm / ngày | Gộp | Xem trang |
 |---|---|---|
-| Một đêm Skyline | hầm + thang + sân thượng | 1, 2 |
-| Một ngày hẻm | phở + văn phòng + cháy + biển mới | 3, 4 |
-| Một bình minh sông | phà + đước + chòi | 5, 6 |
-| Một ngày kính | An Sinh + lab + toà soạn | 7 |
-| Một sáng ga | tủ + bãi xe + ray | 8 |
-| Một đêm Đế Vương | thảm đỏ + ballroom + bếp + sân thượng | 9, 10, 11 |
-| Một sáng im | nghĩa trang + văn phòng mới | 12, 4 |
+| Một đêm Skyline | hầm + thang + sân thượng + sảnh | trang-boi-canh 1–4 |
+| Một ngày hẻm + căn | phở + văn phòng + 1508 + 1015 + toà soạn | 5–12 |
+| Một bình minh sông | phà + xóm chài + đước + kho flash | 13–16 |
+| Một ngày kính | An Sinh + tầng 18 + lab + khoa nhi | 17–20 |
+| Một chiều ga | tủ + mini + hẻm đuổi + Tao Đàn + công an | 21–25 |
+| Một đêm Đế Vương | thảm đỏ + ballroom + booth + VIP + bếp + sân + cổng | 26–32 |
+| Một sáng im | nghĩa trang + văn phòng mới | 33, 9 |
 
 Tín’s phone đã là 9:16. Footage đó không cần relight — chỉ cần hạt và hơi của set đang đứng.
 
@@ -171,3 +160,4 @@ Tín’s phone đã là 9:16. Footage đó không cần relight — chỉ cần 
 
 - 10 Toàn bộ nhân vật: https://docs.google.com/document/d/1II0tNBiyRqCIYrtOTVszQc-xZrdo_NkO5cz0TCW6SUg/edit
 - 11 Bối cảnh + ánh sáng: https://docs.google.com/document/d/1aB4_M_YDRHnUN7CKOrFlDomonTQymbsNNLGbcVhxAbo/edit
+- 13 Trang bối cảnh (đủ 33 plate): tạo cùng thư mục Drive Hồ Sơ 1015
