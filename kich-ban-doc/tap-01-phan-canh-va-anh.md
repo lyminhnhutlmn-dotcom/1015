@@ -6,7 +6,7 @@ Một file. Một tập. **Chỉ ba loại ảnh.** Không still phân cảnh.
 
 | | |
 |---|---|
-| **Đồng hồ** | 8s móc / 40s ngoặt / 12s treo |
+| **Đồng hồ** | 4s móc / 18s ngoặt / 8s treo · **30 giây** |
 | **Set** | Hầm xe Skyline · đêm |
 | **Mặt** | Hà hiện hình. Mai chỉ voice. Hai người dưới gầm = giày. |
 | **Máy** | Seedream 5.0 Pro · 2K |
@@ -73,24 +73,22 @@ Số **1 0 1 5** viết trên da — không phải đạo cụ giấy.
 
 ---
 
-## 4. Phân cảnh — chữ, không ảnh shot
+## 4. Phân cảnh — 30 giây · chữ, không ảnh shot
+
+Bản 3. 7 shot. Rút im, không rút câu. Chi tiết: [`phan-canh-tap-01.md`](phan-canh-tap-01.md).
 
 | PC | Giây | Việc | Cảm tắt tiếng |
 |---|---|---|---|
-| 01 | 0:00–0:03 | Gót + máy nứt | Đã sợ |
-| 02 | 0:03–0:08 | Chạy, ngoái, Mai reo | Sợ + nhớ em nửa nhịp |
-| 03 | 0:08–0:14 | Chạm tên Mai | Thương, nuốt |
-| 04 | 0:14–0:28 | Thì thầm rồi im | Xin lỗi / thương |
-| 05 | 0:28–0:38 | Viết 1 0 1 5 | Gửi em trên da |
-| 06 | 0:38–0:48 | Một đôi dừng | Bị nghe |
-| 07 | 0:48–0:54 | Đôi thứ hai | Hết đường nói |
-| 08 | 0:54–0:58 | Chạy, nắm tay | Giữ số = giữ em |
-| 09 | 0:58–1:00 | Card | 1015 là chỗ hai chị em |
+| 01 | 0:00–0:04 | Gót → chạy, ngoái, Mai | Đã sợ + nhớ em nửa nhịp |
+| 02 | 0:04–0:08 | Chạm tên Mai | Thương, nuốt |
+| 03 | 0:08–0:16 | Thì thầm | Xin lỗi / thương |
+| 04 | 0:16–0:21 | Viết 1 0 1 5 | Gửi em trên da |
+| 05 | 0:21–0:26 | Một đôi → hai đôi | Bị nghe → hết đường |
+| 06 | 0:26–0:29 | Chạy, nắm tay | Giữ số = giữ em |
+| 07 | 0:29–0:30 | Card | 1015 là chỗ hai chị em |
 
-**V1 0:06 Mai:** *Mai đây, để lại lời nhắn nha.*  
-**V2 0:14–0:24 Hà:** *Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em.*
-
-Bảng đủ cảm / voice / bối cảnh / nhân vật từng shot: [`phan-canh-tap-01.md`](phan-canh-tap-01.md).
+**V1 0:03 Mai:** *Mai đây, để lại lời nhắn nha.*  
+**V2 0:08–0:15 Hà:** *Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em.*
 
 **Card:** `1015 · CHỖ CỦA HAI CHỊ EM` · `TẬP SAU`
 
@@ -103,4 +101,5 @@ Bảng đủ cảm / voice / bối cảnh / nhân vật từng shot: [`phan-canh
 3. 1015 = bốn số trên da.  
 4. Hà ≠ Linh ≠ Hương.  
 5. Giày chưa là Sẹo.  
-6. File này không chứa still phân cảnh.
+6. File này không chứa still phân cảnh.  
+7. Phân cảnh **30 giây**. Đủ 30.00.

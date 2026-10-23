@@ -1,66 +1,64 @@
 # TẬP 01 — SỐ TRÊN LÒNG BÀN TAY
-# Kịch bản sản xuất · tiếng Việt trước · 9:16 · 60 giây
-# Bản 2 — móc vào người, thoại ngắn, cảm ở chỗ ngừng
+# Kịch bản sản xuất · tiếng Việt trước · 9:16 · 30 giây
+# Bản 3 — rút im, gộp shot, giữ hai câu
 
-Bản này quay được. Một tập. Một địa điểm. Hai câu.
+Bản này quay được. Một tập. Một địa điểm. Hai câu. **30.00 giây.**
 
 File Tập 1 (sheet · bối cảnh · đạo cụ): [`tap-01-phan-canh-va-anh.md`](tap-01-phan-canh-va-anh.md).  
-Phân cảnh chữ: `phan-canh-tap-01.md`.
+Phân cảnh chữ: [`phan-canh-tap-01.md`](phan-canh-tap-01.md).
 
 | | |
 |---|---|
-| **Đồng hồ** | 8 giây móc / 40 giây ngoặt / 12 giây treo |
+| **Đồng hồ** | 4 giây móc / 18 giây ngoặt / 8 giây treo |
 | **Cung cảm** | Sợ → nhớ em → thương → nắm số → bị nhìn thấy |
 | **Set** | Hầm xe Skyline · đêm |
 | **Mặt** | Hà 34 — mặt dài hẹp, búi thấp, quầng. **Không** lẫn Linh / Hương |
-| **Thoại** | 2 câu. Mai sáng. Hà vỡ ở cuối. |
-| **Treo** | Hai đôi giày. Nắm 1015. Chữ: `1015 · CHỖ CỦA HAI CHỊ EM` |
+| **Thoại** | 2 câu. Mai sáng. Hà vỡ ở cuối. Không rút chữ. |
+| **Treo** | Hai đôi trong một shot. Nắm 1015. Chữ: `1015 · CHỖ CỦA HAI CHỊ EM` |
 
 ---
 
-## 0:00–0:08 — MÓC
+## 0:00–0:04 — MÓC
 
-Hình trước. Thoại sau. Mở bằng **người đang sợ**, không bằng trần trống.
+Hình trước. Thoại sau. Gót và chạy **một shot**.
 
 | Giây | Shot | Máy | Việc | Cảm |
 |---|---|---|---|---|
-| 0:00–0:03 | 1 | Cận gót / tay | Gót đạp vũng. Máy nứt sáng. Đèn trần chỉ là nhịp trên da. | Đã chạy. |
-| 0:03–0:08 | 2 | Trung, từ gối | Hà chạy. Ngoái. Không thấy ai. Chuông. | Sợ. 0:06 mắt mềm nửa nhịp — Mai. |
+| 0:00–0:04 | 1 | Cận gót → tilt lên mặt | Gót đạp vũng. Máy nứt. Chạy. Ngoái. | Đã sợ. 0:03 mắt mềm — Mai. |
 
-**Âm:** gót + đèn *tíc* + chuông quá lâu.
+**Âm:** gót + đèn *tíc* + chuông.
 
-**GIỌNG MAI** *(hộp thư, 0:06 — sáng, hơi cười, không biết đây là tin cuối)*  
+**GIỌNG MAI** *(hộp thư, 0:03 — sáng, hơi cười)*  
 Mai đây, để lại lời nhắn nha.
 
 ---
 
-## 0:08–0:48 — MỘT BƯỚC NGOẶT
+## 0:04–0:21 — MỘT BƯỚC NGOẶT
 
-Một việc: chị để lại chỗ của hai chị em. Không lộ Sẹo. Không sân thượng.
+Một việc: chị để lại chỗ của hai chị em.
 
 | Giây | Shot | Máy | Việc | Cảm |
 |---|---|---|---|---|
-| 0:08–0:14 | 3 | Cận kính | Máy nứt. Tên Mai. Đưa lên tai. | Chạm em. Nuốt. |
-| 0:14–0:28 | 4 | Cận mặt | Thì thầm 0:14–0:24. Im 0:24–0:28. | Xin lỗi vì sắp biến. |
-| 0:28–0:38 | 5 | Cận tay trái | Tắt máy. Viết **1015**. Nét run. | Thư trên da. |
-| 0:38–0:48 | 6 | Gầm xe | Một đôi oxford. Dừng. | Chúng nghe. |
+| 0:04–0:08 | 2 | Cận kính | Tên Mai. Đưa lên tai. | Chạm em. Nuốt. |
+| 0:08–0:16 | 3 | Cận mặt | Thì thầm 0:08–0:15. Hơi 0:15–0:16. | Xin lỗi vì sắp biến. |
+| 0:16–0:21 | 4 | Cận tay trái | Viết **1 0 1 5**. | Thư trên da. |
 
-**HÀ** *(thì thầm, 0:14–0:24)*  
+**HÀ** *(thì thầm, 0:08–0:15)*  
 Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em.
 
-Bỏ: *Em nhớ số này. 1015. Em sẽ hiểu.* Số đã ở trên da.
+Không 4 giây im sau thoại. Bỏ: *Em nhớ số này. 1015. Em sẽ hiểu.*
 
 ---
 
-## 0:48–1:00 — TREO
+## 0:21–0:30 — TREO
 
-Không fade. Nắm số. Hai người.
+Hai đôi **một shot**. Nắm. Card 1 giây.
 
 | Giây | Shot | Máy | Việc | Cảm |
 |---|---|---|---|---|
-| 0:48–0:54 | 7 | Cùng shot 6 | Đôi thứ hai. | Hết đường nói. |
-| 0:54–0:58 | 8 | Hà từ sau | Lao ra cửa. Tay trái nắm. | Giữ số = giữ em. |
-| 0:58–1:00 | 9 | Đóng băng 7 | Chữ thế giới. | Mùa hỏi đúng chỗ. |
+| 0:21–0:26 | 5 | Gầm xe | Một đôi đã đứng. Đôi hai bước vào. | Nghe → kết. |
+| 0:26–0:29 | 6 | Hà từ sau | Lao ra cửa. Tay trái nắm. | Giữ số = giữ em. |
+| 0:29–0:30 | 7 | Đóng băng 5 | Chữ thế giới. | Mùa hỏi đúng chỗ. |
 
 **Chữ:** `1015 · CHỖ CỦA HAI CHỊ EM` · `TẬP SAU`
 
@@ -77,11 +75,11 @@ Không fade. Nắm số. Hai người.
 
 | Giây | Chữ |
 |---|---|
-| 0:06 | MAI: Mai đây, để lại lời nhắn nha. |
-| 0:14 | Nếu chị không về. |
-| 0:18 | Một không một năm. |
-| 0:21 | Chỗ của hai chị em. |
-| 0:24 | Chị thương em. |
-| 0:33 | *(1015 trên da)* |
-| 0:48 | *(hai đôi giày)* |
-| 0:58 | 1015 · CHỖ CỦA HAI CHỊ EM  ·  TẬP SAU |
+| 0:03 | MAI: Mai đây, để lại lời nhắn nha. |
+| 0:08 | Nếu chị không về. |
+| 0:10 | Một không một năm. |
+| 0:12 | Chỗ của hai chị em. |
+| 0:14 | Chị thương em. |
+| 0:18 | *(1 0 1 5 trên da)* |
+| 0:24 | *(hai đôi giày)* |
+| 0:29 | 1015 · CHỖ CỦA HAI CHỊ EM  ·  TẬP SAU |
