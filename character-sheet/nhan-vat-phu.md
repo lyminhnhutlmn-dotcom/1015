@@ -2,7 +2,15 @@
 
 Mọi vai có tên **ngoài tám chính**. Tám chính (Khang, Tín, Mai, Chị Sáu, Lực, Nam, Bảo, Sẹo) nằm ở `character-sheet.md`. Trang này giữ hết tầng 2, tầng 3, tầng 4, mèo Hồ Sơ.
 
-Mặt phải đọc được từ xa trên điện thoại 9:16. Da thật, nét Kinh, đúng nghề, đúng tuổi — không cần đẹp như dàn chính.
+Mặt phải đọc được từ xa trên điện thoại 9:16. Da thật, nét Kinh, đúng nghề, đúng tuổi — không cần đẹp như dàn chính. Ba phụ nữ Kinh tuổi 33–34 không được dùng chung một khuôn: **Hà ≠ Linh ≠ Hương**.
+
+| | Hà 34 | Linh 33 | Hương 34 |
+|---|---|---|---|
+| **Xương** | Mặt dài hẹp, gò má cao, cằm nhọn | Mặt ngắn rộng, hàm mềm, má đầy | Hộp sọ tròn, trán rộng, cằm ngắn |
+| **Mắt** | Sâu, mí sụp, quầng thật, không kính | To, tránh nhìn, kính gọng đen dày | Nhỏ, mí sưng mệt, không kính |
+| **Tóc** | Búi thấp, ngôi giữa, mượt | Mái thưa + búi lệch, tóc bay | Đuôi ngựa cao, rối, tóc con |
+| **Miệng** | Môi mỏng, mím | Môi dưới đầy, nốt ruồi góc trái | Miệng rộng, môi khô |
+| **Đọc trong 1 khung** | Mặt dài + quầng + blazer | Kính dày + mái + cardigan | Mặt tròn + đuôi ngựa + áo thun |
 
 | Tầng | Ai | Sheet |
 |---|---|---|
@@ -26,8 +34,8 @@ Mặt phải đọc được từ xa trên điện thoại 9:16. Da thật, nét
 | | |
 |---|---|
 | **Vai** | Teaser, voicemail, thư. Điều khiển phim từ bên kia. |
-| **Gương mặt** | Thanh, mắt thức đêm, môi mỏng |
-| **Tóc** | Đen, búi thấp lúc làm việc |
+| **Gương mặt** | Dài hẹp, gò má cao, cằm nhọn, mắt sâu mí sụp. **Không** dùng chung khuôn với Linh / Hương |
+| **Tóc** | Đen, búi thấp, ngôi giữa — không mái, không đuôi ngựa |
 | **Trang phục** | Blazer xám nhàu, áo thun trắng, túi đeo chéo, giày bệt |
 | **Da** | Sáng hồng mệt, quầng mắt thật, không che |
 | **Bảng màu** | Xám – Trắng – Đen |
@@ -75,7 +83,7 @@ Mặt phải đọc được từ xa trên điện thoại 9:16. Da thật, nét
 | | |
 |---|---|
 | **Vai** | Gỡ bài, đưa nháp: đọc trước đám đông. |
-| **Gương mặt** | Kính gọng đen, mắt tránh nhìn |
+| **Gương mặt** | Mặt ngắn rộng, má đầy, kính gọng đen dày, mái thưa, nốt ruồi góc miệng trái. **Không** dùng chung khuôn với Hà / Hương |
 | **Trang phục** | Cardigan xám, sơ mi, thẻ toà soạn |
 | **Da** | Sáng, hơi khô vì đèn tuýp, cushion mỏng |
 | **Bảng màu** | Xám – Đen – Trắng |
@@ -87,7 +95,7 @@ Mặt phải đọc được từ xa trên điện thoại 9:16. Da thật, nét
 | | |
 |---|---|
 | **Vai** | Một trong 23 đứa uống đúng lô. Hương hỏi sao thuốc “không chịu”. |
-| **Gương mặt** | Mệt, mắt thâm, đẹp vì thật. Bé Minh không cần sheet riêng — chỉ cần mặt mẹ. |
+| **Gương mặt** | Hộp sọ tròn, trán rộng, mí sưng, đuôi ngựa cao rối. **Không** dùng chung khuôn với Hà / Linh. Bé Minh không sheet riêng — chỉ cần mặt mẹ. |
 | **Trang phục** | Áo thun nhàu, quần jean, dép |
 | **Da** | Hồng mệt, không trang điểm |
 | **Bảng màu** | Xanh nhạt – Be |
@@ -224,4 +232,5 @@ Tám vai có mặt trên tấm nhóm. KOL và Khách trẻ hoá trang theo ngh�
 - Việt ≠ Hổ: mũ, mặt hẹp, không xăm.
 - Hải ≠ Lực: tóc còn, trán cao, không cua bạc.
 - Hạnh ≠ Mai: bob ngắn, blouse Viện, không kính vàng.
-- Ngọc ≠ Linh: búi tóc, đồng phục An Sinh, không kính gọng đen.
+- Ngọc ≠ Linh: búi tóc, đồng phục An Sinh, không kính gọng đen, không mái.
+- Hà ≠ Linh ≠ Hương: mặt dài búi thấp / mặt rộng kính mái / mặt tròn đuôi ngựa cao.
