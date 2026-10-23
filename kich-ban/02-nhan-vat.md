@@ -34,6 +34,8 @@
 
 ## Nhân vật phụ
 
+Sheet và lineup đủ tầng 2–3–4: `character-sheet/nhan-vat-phu.md`.
+
 ### CHỊ SÁU (52) – Chủ quán phở, chủ nhà của Khang
 
 - Goá chồng, một mình nuôi quán "Phở Sáu" 20 năm. Nói ít, câu nào cũng như dao. Tính tiền nhà bằng phở: *"Nợ ba tháng. Tui tính lãi bằng phở. Ăn đi, ăn cho mau trả."*
@@ -84,9 +86,9 @@
 
 ---
 
-## Nhân vật phụ – tầng hai (có thoại, có mặt)
+## Nhân vật phụ – tầng hai (có thoại, có mặt, có sheet)
 
-Những vai này đã có trong kịch bản nhưng trước đây chỉ là chức danh. Giờ có tên, có một nét, để dàn diễn viên phụ không bị "mất mặt".
+Những vai này đã có trong kịch bản nhưng trước đây chỉ là chức danh. Giờ có tên, có mặt, có sheet trên `character-sheet/nhan-vat-phu.md`.
 
 ### TRẦN MỸ LINH (33) – Biên tập viên Báo Sài Gòn Mới  *(mới thêm)*
 
@@ -127,6 +129,8 @@ Những vai này đã có trong kịch bản nhưng trước đây chỉ là ch�
 ---
 
 ## Nhân vật phụ – tầng ba (một cảnh, một nét)
+
+Tấm nhóm: `character-sheet/character-sheet-tang-4.jpg`. Đủ tên trên trang nhân vật phụ.
 
 | Tên | Tuổi | Cảnh | Nét |
 |---|---|---|---|

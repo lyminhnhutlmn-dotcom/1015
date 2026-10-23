@@ -1,6 +1,6 @@
 # HỒ SƠ 1015 — TOÀN BỘ NHÂN VẬT
 
-Danh sách đầy đủ. Tám chính có sheet. Phụ có tên, tuổi, một nét mặt, một việc trong phim.
+Danh sách đầy đủ. Tám chính có sheet. Phụ có tên, tuổi, mặt, sheet — hết ở `character-sheet/nhan-vat-phu.md`.
 
 Mặt phải **đọc được từ xa** trên điện thoại 9:16. Bốn người đàn ông Kinh tuổi 36–55 không được dùng chung một khuôn: Khang ≠ Nam ≠ Bảo ≠ Lực.
 
@@ -59,6 +59,8 @@ Sheet: `character-sheet/character-sheet-seo.jpg`
 
 ## Tầng 2 — Có thoại, có mặt, có sheet
 
+Trang đủ mặt: `character-sheet/nhan-vat-phu.md`
+
 | # | Tên | Tuổi | Vai | Nét một dòng | Sheet |
 |---|---|---|---|---|---|
 | 9 | Vũ Thanh Hà | 34 | Nhà báo, nạn nhân | Teaser, voicemail, thư. Điều khiển phim từ bên kia. | ha |
@@ -71,16 +73,18 @@ Sheet: `character-sheet/character-sheet-seo.jpg`
 
 ---
 
-## Tầng 3 — Có thoại, chưa sheet
+## Tầng 3 — Có thoại, có sheet
 
-| Tên | Tuổi | Cảnh | Nét |
-|---|---|---|---|
-| Ngô Thị Hạnh | 32 | Viện Kiểm nghiệm | Ký 8,3%. Bạn học Mai. |
-| Trung tá Phạm Văn Hải | 44 | Triệu tập sau cháy | Hệ thống. Không ác, phải làm. |
-| Đỗ Văn Hổ | 28 | Cầu thang, sân thượng | Xăm đầu hổ. Tay chân Sẹo. |
-| Lê Quốc Việt | 32 | Hầm xe, phà, sân thượng | Mũ / fullface. Biết lúc nào biến. |
-| Nguyễn Thị Ngọc | 35 | An Sinh | Thư ký. Cá rồng chết → tin thầy. |
-| Trần Khoa | 25 | Booth Đế Vương | Bấm SURPRISE. Mid-credits nhầm “anh Vũ”. |
+Trang đủ mặt: `character-sheet/nhan-vat-phu.md`
+
+| # | Tên | Tuổi | Vai | Nét một dòng | Sheet |
+|---|---|---|---|---|---|
+| 16 | Ngô Thị Hạnh | 32 | Viện Kiểm nghiệm | Ký 8,3%. Bạn học Mai. | hanh |
+| 17 | Trung tá Phạm Văn Hải | 44 | Triệu tập sau cháy | Hệ thống. Không ác, phải làm. | hai |
+| 18 | Đỗ Văn Hổ | 28 | Cầu thang, sân thượng | Xăm đầu hổ. Tay chân Sẹo. | ho |
+| 19 | Lê Quốc Việt | 32 | Hầm xe, phà, sân thượng | Mũ / fullface. Biết lúc nào biến. | viet |
+| 20 | Nguyễn Thị Ngọc | 35 | An Sinh | Thư ký. Cá rồng chết → tin thầy. | ngoc |
+| 21 | Trần Khoa | 25 | Booth Đế Vương | Bấm SURPRISE. Mid-credits nhầm “anh Vũ”. | khoa |
 
 ---
 
@@ -126,4 +130,4 @@ Sheet: `character-sheet/character-sheet-seo.jpg`
                              KHOA
 ```
 
-Tám chính + 7 sheet phụ + 6 thoại chưa sheet + 10 bit + mèo = **32 vai có tên**. Không còn “gã xăm”, “lễ tân”, “kỹ thuật viên”.
+Tám chính + 13 sheet phụ (tầng 2–3) + 1 tấm tầng 4 + 10 bit + mèo = **32 vai có tên**. Hết dàn phụ nằm ở `character-sheet/nhan-vat-phu.md`. Không còn “gã xăm”, “lễ tân”, “kỹ thuật viên”.

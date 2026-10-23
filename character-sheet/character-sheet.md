@@ -10,6 +10,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 
 ![Lineup](character-lineup.jpg)
 
+Trang nhân vật phụ — đủ tầng 2, tầng 3, tầng 4: [`nhan-vat-phu.md`](nhan-vat-phu.md)
+
 ---
 
 ## 1. LÊ MINH KHANG – Thám tử tư
@@ -244,9 +246,85 @@ Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kin
 | **Da** | Hồng khoẻ chợ, đốm nắng |
 | **Bảng màu** | Kem – Nâu |
 
-### Tầng ba – không cần sheet riêng
+Toàn bộ nhân vật phụ — sheet, lineup, tầng 4 — nằm ở **[trang nhân vật phụ](nhan-vat-phu.md)**. Không để sót vai có tên.
 
-Hạnh (tóc ngắn, blouse Viện), Hải (quân phục, mặt khó xử), Hổ (xăm hổ cổ tay), Việt (mũ lưỡi trai), Ngọc (tóc búi, đồng phục An Sinh), Khoa (áo đen, tai nghe), Quân / My / Phát / Bà Tư Bánh / Sơn / MC Thanh / Hoàng / Long: hoá trang theo nghề, da thật, nét Kinh.
+### 16. NGÔ THỊ HẠNH – Viện Kiểm nghiệm
+
+![Hạnh](character-sheet-hanh.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 32 / 1m68 |
+| **Gương mặt** | Tóc bob ngắn, mắt nói thẳng |
+| **Trang phục** | Blouse trắng, quần đen, vỉ thuốc |
+| **Da** | Sáng, khô phòng lab |
+| **Bảng màu** | Trắng – Đen – Xám |
+
+### 17. TRUNG TÁ PHẠM VĂN HẢI
+
+![Hải](character-sheet-hai.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 44 / 1m76 |
+| **Gương mặt** | Trán cao, tóc mỏng, miệng khó xử. Không cua bạc như Lực |
+| **Trang phục** | Sơ mi quân phục rêu |
+| **Da** | Hồng khoẻ, nếp mệt |
+| **Bảng màu** | Rêu – Đen |
+
+### 18. ĐỖ VĂN HỔ
+
+![Hổ](character-sheet-ho.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 28 / 1m75 |
+| **Gương mặt** | Trẻ hơn Sẹo, không sẹo cổ |
+| **Trang phục** | Bomber đen, jean, xăm hổ cổ tay trái |
+| **Da** | Hồng ngăm, lỗ chân lông |
+| **Bảng màu** | Đen |
+
+### 19. LÊ QUỐC VIỆT
+
+![Việt](character-sheet-viet.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 32 / 1m77 |
+| **Gương mặt** | Hẹp hơn Hổ, mắt thận trọng |
+| **Trang phục** | Áo khoác đen, mũ lưỡi trai |
+| **Da** | Sáng hồng, không xăm |
+| **Bảng màu** | Đen – Navy |
+
+### 20. NGUYỄN THỊ NGỌC – Thư ký An Sinh
+
+![Ngọc](character-sheet-ngoc.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 35 / 1m65 |
+| **Gương mặt** | Tóc búi, miệng lo |
+| **Trang phục** | Sơ mi xám, chân váy, thẻ tên |
+| **Da** | Cushion mỏng, vẫn thấy lỗ chân lông |
+| **Bảng màu** | Xám – Be |
+
+### 21. TRẦN KHOA – Booth Đế Vương
+
+![Khoa](character-sheet-khoa.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 25 / 1m72 |
+| **Gương mặt** | Trẻ, gầy, mụn nhẹ, tai nghe |
+| **Trang phục** | Áo đen, cargo, pack không dây |
+| **Da** | Sáng hồng tuổi 25 |
+| **Bảng màu** | Đen |
+
+### Tầng 4 – tấm nhóm
+
+![Tầng 4](character-sheet-tang-4.jpg)
+
+Quân, My, Phát, Bà Tư Bánh, Sơn, MC Thanh, Hoàng, Long. KOL và Khách trẻ hoá trang theo nghề. Chi tiết từng ô: [`nhan-vat-phu.md`](nhan-vat-phu.md).
 
 ## Ghi chú cho bộ phận hoá trang
 
