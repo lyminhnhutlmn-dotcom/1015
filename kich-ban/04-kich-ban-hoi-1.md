@@ -44,7 +44,7 @@ Gió. Thành phố dưới chân sáng rực. Hà chạy ra, cửa thoát hiểm
 
 Cánh cửa mở.
 
-**SẸO** (40, vết sẹo dài từ tai xuống cổ, áo khoác đen) bước ra. Hai gã theo sau: **GÃ XĂM** (có hình xăm đầu hổ trên cổ tay) và **GÃ MŨ** (đội mũ lưỡi trai).
+**SẸO** (40, vết sẹo dài từ tai xuống cổ, áo khoác đen) bước ra. Hai gã theo sau: **HỔ** (28, hình xăm đầu hổ trên cổ tay) và **VIỆT** (32, mũ lưỡi trai).
 
 **SẸO**
 (bình thản)
@@ -72,7 +72,7 @@ Anh biết tôi sợ độ cao không?
 **SẸO**
 Không ai hỏi.
 
-Gã Xăm và Gã Mũ áp sát hai bên. Hà nhìn xuống thành phố. Rồi nhìn vào lòng bàn tay mình. Nắm chặt lại.
+Hổ và Việt áp sát hai bên. Hà nhìn xuống thành phố. Rồi nhìn vào lòng bàn tay mình. Nắm chặt lại.
 
 CẮT ĐEN.
 
@@ -102,7 +102,9 @@ Chữ "GIÁ MỀM" được viết thêm bằng bút lông, nét khác hẳn.
 
 Căn gác 25 mét vuông. Một bàn làm việc, một ghế sofa da rách, một tủ hồ sơ sắt, một bàn thờ ông Địa có ly cà phê sữa thay trái cây. Quạt trần quay chậm. Mùi phở từ dưới bốc lên.
 
-**LÊ MINH KHANG** (36) ngủ trên ghế sofa, áo sơ mi xắn tay, giày vẫn mang. Trên ngực anh là một tập hồ sơ: ảnh chụp lén một người đàn ông bụng bia đang ôm một cô gái trước khách sạn. Bìa hồ sơ ghi: *"Vụ anh Hùng – ngoại tình – đã xong – CHƯA THANH TOÁN".*
+**LÊ MINH KHANG** (36) ngủ trên ghế sofa, áo sơ mi xắn tay, giày vẫn mang. Trên ngực anh là một tập hồ sơ: ảnh chụp lén một người đàn ông bụng bia đang ôm một cô gái trước khách sạn. Bìa hồ sơ ghi: *"Vụ anh Hùng – ngoại tình – đã xong – CHƯA THANH TOÁN"*.
+
+Trên bàn, dựa vào ly cà phê nguội: một khung ảnh 4x6 cũ – **NGUYỄN HOÀNG DŨNG** (30) cười trong quân phục, tay ngoắc dấu V. Không hoa. Không nhang. Chỉ ảnh.
 
 Góc phòng, **PHẠM HỮU TÍN** (27, hoodie in chữ CEO, tóc vàng phai) ngồi trước điện thoại gắn ring light mini, nói thì thầm nhưng cực kỳ sôi nổi.
 
@@ -337,7 +339,7 @@ Hình ảnh ngắn, giật, nhoè. Đèn pin cắt ngang bóng tối. Tiếng s�
 **KHANG (FLASHBACK)**
 Dũng! Dũng, rút ra!
 
-**DŨNG** (30, mặt nhễ nhại) nằm dựa vào thùng hàng, tay ôm bụng. Máu. Khang quỳ xuống, ép tay lên vết thương.
+**NGUYỄN HOÀNG DŨNG** (30, mặt nhễ nhại) nằm dựa vào thùng hàng, tay ôm bụng. Máu. Khang quỳ xuống, ép tay lên vết thương.
 
 **DŨNG**
 (thều thào)
@@ -382,11 +384,60 @@ Ngủ đi.
 
 ---
 
+### 9A. NỘI. TOÀ SOẠN BÁO SÀI GÒN MỚI – SÁNG
+
+Phòng biên tập tầng bảy, đèn tuýp, mùi giấy in. **TRẦN MỸ LINH** (33, tóc búi lệch, kính gọng đen, áo cardigan xám) ngồi trước hai màn hình. Cô thấy Khang và Tín thì khép cửa cabin kính.
+
+**LINH**
+Tôi không trả lời báo chí. Tôi *là* báo chí. Và tôi không có gì để nói.
+
+**KHANG**
+Chị gỡ bài Bình Chánh của Vũ Thanh Hà.
+
+Linh nhìn ra hành lang. Một đồng nghiệp đi qua. Cô hạ giọng.
+
+**LINH**
+Hai năm trước. Điện thoại từ "trên". Không phải một cú. Ba cú. Từ ba số khác nhau, cùng một câu: "Xem lại giúp". Tôi xem lại. Rồi tôi gỡ.
+(ngừng)
+Hà không giận tôi. Hà nói: "Linh gỡ đi. Chị viết bản khác."
+
+**TÍN**
+Bản khác đâu ạ?
+
+Linh mở ngăn kéo. Đưa một tệp in, góc quăn, có chữ viết tay của Hà: *"Linh – nếu chị không kịp, đừng đăng. Đưa cho người dám đọc trước đám đông."*
+
+**LINH**
+Hà gửi tôi đêm thứ năm. Sáng thứ sáu tôi mở ra thì tin Hà… rơi.
+(nhìn Khang)
+Tôi không dám đăng. Toà soạn này nuôi hai trăm người. Mẹ tôi nằm viện. Tôi không phải người dám.
+(đẩy tệp)
+Nhưng tôi giữ. Vì Hà bảo giữ.
+
+Khang cầm tệp. Không mở. Anh đã đoán trong đó có gì.
+
+**KHANG**
+Chị sẽ không bị nêu tên.
+
+**LINH**
+Anh Khang. Người ta không cần tên tôi. Người ta cần biết là toà soạn cũng biết sợ.
+(đứng dậy, mở cửa)
+Đừng tới đây lần nữa. Và đừng tin là in báo là đủ. Hà biết rồi. Nên Hà mới viết câu đó.
+
+Tín bước ra, ngoái lại.
+
+**TÍN**
+Chị ơi, em có kênh. Ba mươi bảy view–
+
+**KHANG**
+Đi.
+
+---
+
 ### 10. NỘI. SẢNH CHUNG CƯ SKYLINE – NGÀY
 
-Sảnh sang trọng, bảo vệ mặc vest. Khang và Tín bước vào. Tín đẩy một chiếc xe đẩy có thùng carton, đeo khẩu trang, mặc áo thun in dòng chữ – vừa in đêm qua, mực còn mùi – **"DỊCH VỤ DỌN NHÀ HẬU TANG AN LẠC – TẬN TÂM, KÍN ĐÁO"**.
+Sảnh sang trọng. **QUÂN** (40, bảo vệ vest, tai nghe) đứng quầy. Khang và Tín bước vào. Tín đẩy một chiếc xe đẩy có thùng carton, đeo khẩu trang, mặc áo thun in dòng chữ – vừa in đêm qua, mực còn mùi – **"DỊCH VỤ DỌN NHÀ HẬU TANG AN LẠC – TẬN TÂM, KÍN ĐÁO"**.
 
-**BẢO VỆ SẢNH**
+**QUÂN**
 Hai anh đi đâu?
 
 **TÍN**
@@ -395,7 +446,7 @@ Dạ, tụi em bên An Lạc. Gia đình chị Hà ở căn 1508 thuê dọn đ�
 
 Anh rút tờ giấy có chữ ký Mai (thật) và con dấu "AN LẠC" (giả – Tín khắc bằng củ khoai đêm qua, hơi lem).
 
-**BẢO VỆ SẢNH**
+**QUÂN**
 (nhìn giấy, nhìn con dấu lem)
 Dấu gì mà–
 
@@ -408,7 +459,7 @@ Anh sụt sịt. Bảo vệ lúng túng.
 **TÍN (TIẾP)**
 …còn nguyên đôi dép người ta để ở cửa…
 
-**BẢO VỆ SẢNH**
+**QUÂN**
 Thôi thôi, lên đi. Tầng 15.
 
 Hai người vào thang máy. Cửa đóng. Tín lột khẩu trang, thở phào.
@@ -508,15 +559,15 @@ Khang lập tức tắt đèn, kéo Tín (và con mèo trên tay Tín) vào phò
 
 ### 12. NỘI. CĂN HỘ 1508 – TIẾP
 
-Cửa mở. **GÃ XĂM** và **GÃ MŨ** bước vào – hai gã của Sẹo. Gã Xăm cầm một túi đen.
+Cửa mở. **HỔ** và **VIỆT** bước vào – hai gã của Sẹo. Hổ cầm một túi đen.
 
-**GÃ MŨ**
+**VIỆT**
 Anh Sẹo nói kiểm tra lại cái tủ đầu giường. Lần trước mày bỏ sót hộp thuốc.
 
-**GÃ XĂM**
+**HỔ**
 Tao coi rồi, có vỉ thuốc thôi.
 
-**GÃ MŨ**
+**VIỆT**
 Coi lại.
 
 Khang nhìn quanh phòng ngủ. Cửa sổ: tầng 15. Tủ quần áo: đủ cho một người. Anh ra hiệu Tín vào tủ.
@@ -533,43 +584,43 @@ Tín chui vào tủ, ôm mèo. Đóng cửa tủ. Trong bóng tối, theo phản
 (thì thào vào điện thoại, hoàn toàn tự động)
 …anh em, tình hình hiện tại là em đang ở trong tủ…
 
-Cửa phòng ngủ mở. Gã Xăm bước vào. Hắn đi thẳng tới tủ đầu giường. Lục hộp thuốc. Không thấy giấy.
+Cửa phòng ngủ mở. Hổ bước vào. Hắn đi thẳng tới tủ đầu giường. Lục hộp thuốc. Không thấy giấy.
 
-**GÃ XĂM**
+**HỔ**
 Đâu có gì.
 
 Con mèo trong tủ kêu một tiếng: *"meo"*.
 
-Gã Xăm quay phắt lại. Nhìn tủ quần áo. Bước tới. Mở–
+Hổ quay phắt lại. Nhìn tủ quần áo. Bước tới. Mở–
 
 Khang từ sau cánh cửa lao ra, khoá cổ hắn từ phía sau. Hai người ngã vào kệ sách. Sách đổ ào.
 
-**GÃ MŨ (O.S.)**
+**VIỆT (O.S.)**
 Ê!
 
-Gã Mũ chạy vào. Khang đạp Gã Xăm vào Gã Mũ, cả hai ngã chồng lên nhau. Khang lao ra cửa chính.
+Việt chạy vào. Khang đạp Hổ vào Việt, cả hai ngã chồng lên nhau. Khang lao ra cửa chính.
 
 **KHANG**
 (hét)
 Tín! Cầu thang bộ! Ống rác!
 
-Trong tủ, cửa tủ hé ra. Tín thò đầu, điện thoại vẫn đang live. Gã Xăm lồm cồm bò dậy, quay mặt về phía tủ – **mặt hắn lọt trọn vào khung hình điện thoại**, hình xăm đầu hổ trên cổ tay rõ mồn một.
+Trong tủ, cửa tủ hé ra. Tín thò đầu, điện thoại vẫn đang live. Hổ lồm cồm bò dậy, quay mặt về phía tủ – **mặt hắn lọt trọn vào khung hình điện thoại**, hình xăm đầu hổ trên cổ tay rõ mồn một.
 
 **TÍN**
 (vào điện thoại, giọng thì thào kinh hoàng)
 …anh em, đây là một người xấu…
 
-Gã Xăm gầm lên. Tín hét, ném con mèo vào mặt hắn, lao ra.
+Hổ gầm lên. Tín hét, ném con mèo vào mặt hắn, lao ra.
 
 ### 13. NỘI. CẦU THANG BỘ CHUNG CƯ SKYLINE – NGÀY
 
-Khang chạy xuống. Gã Mũ đuổi sát. Tầng 14. Tầng 13. Gã Mũ rút dùi cui điện.
+Khang chạy xuống. Việt đuổi sát. Tầng 14. Tầng 13. Việt rút dùi cui điện.
 
 Khang dừng ở chiếu nghỉ tầng 12. Giật bình chữa cháy khỏi giá. Quay lại.
 
-Gã Mũ lao xuống – Khang xịt thẳng vào mặt. Bột trắng mù mịt. Gã Mũ ho sặc, vung dùi cui mù. Khang né, đập bình vào tay cầm dùi cui – dùi cui văng xuống lồng cầu thang, nghe tiếng *"tạch"* phóng điện ở mãi dưới sâu.
+Việt lao xuống – Khang xịt thẳng vào mặt. Bột trắng mù mịt. Việt ho sặc, vung dùi cui mù. Khang né, đập bình vào tay cầm dùi cui – dùi cui văng xuống lồng cầu thang, nghe tiếng *"tạch"* phóng điện ở mãi dưới sâu.
 
-Gã Mũ ôm lấy Khang, cả hai lăn xuống nửa tầng. Khang đập đầu vào lan can, choáng. Gã Mũ đè lên, tay bóp cổ. Khang mò tay – chạm vào cái bình chữa cháy lăn bên cạnh. Anh không nhấc nổi – anh **kéo chốt, bóp cò** ngay sát tai gã. Tiếng xịt như còi tàu. Gã Mũ ôm tai lăn ra.
+Việt ôm lấy Khang, cả hai lăn xuống nửa tầng. Khang đập đầu vào lan can, choáng. Việt đè lên, tay bóp cổ. Khang mò tay – chạm vào cái bình chữa cháy lăn bên cạnh. Anh không nhấc nổi – anh **kéo chốt, bóp cò** ngay sát tai gã. Tiếng xịt như còi tàu. Việt ôm tai lăn ra.
 
 Khang đứng dậy, thở hổn hển. Nhìn lên. Không thấy Tín.
 
@@ -579,11 +630,11 @@ TÍN!
 
 ### 14. NỘI. HÀNH LANG TẦNG 15 – CÙNG LÚC
 
-Tín chạy dọc hành lang, Gã Xăm đuổi theo, mặt còn vết cào của mèo. Trước mặt Tín: cửa phòng đổ rác. Anh lao vào.
+Tín chạy dọc hành lang, Hổ đuổi theo, mặt còn vết cào của mèo. Trước mặt Tín: cửa phòng đổ rác. Anh lao vào.
 
 ### 15. NỘI. PHÒNG ĐỔ RÁC – TIẾP
 
-Một cái cửa ống rác bằng inox, cỡ vừa một bao rác lớn. Tín nhìn nó. Nhìn ra cửa – bóng Gã Xăm tới gần.
+Một cái cửa ống rác bằng inox, cỡ vừa một bao rác lớn. Tín nhìn nó. Nhìn ra cửa – bóng Hổ tới gần.
 
 **TÍN**
 (với chính mình)
@@ -597,7 +648,7 @@ Kẹt ở hông.
 (nghẹn)
 Không… không… em mới giảm ba ký mà…
 
-Gã Xăm lao vào, nắm chân Tín kéo. Tín đạp loạn xạ, trúng mặt hắn. Hắn buông. Tín trượt xuống–
+Hổ lao vào, nắm chân Tín kéo. Tín đạp loạn xạ, trúng mặt hắn. Hắn buông. Tín trượt xuống–
 
 ### 16. NỘI. ỐNG RÁC – TIẾP
 
@@ -656,7 +707,7 @@ Khang kéo Tín dậy. Tín ôm mèo, hắt xì, cả hai lom khom chạy ra c�
 
 Quán đã đóng cửa, ghế úp lên bàn. Một bàn còn hạ: Khang (băng trán), Tín (tắm rồi nhưng vẫn phảng phất mùi rác), con mèo Hồ Sơ (ăn phở tái trong đĩa). Chị Sáu đứng ở quầy, lau ly, nghe nhưng giả vờ không nghe.
 
-Trên bàn: mẩu giấy *"T.Đ – Cần Giờ – thứ 5 – mang theo cái đó"*. Laptop của Tín mở: đoạn livestream đã lưu, dừng ở khung hình mặt Gã Xăm với hình xăm đầu hổ.
+Trên bàn: mẩu giấy *"T.Đ – Cần Giờ – thứ 5 – mang theo cái đó"*. Laptop của Tín mở: đoạn livestream đã lưu, dừng ở khung hình mặt Hổ với hình xăm đầu hổ.
 
 **KHANG**
 Tổng hợp lại.
@@ -674,7 +725,7 @@ Năm là… em rơi mười lăm tầng.
 **KHANG**
 Năm là cậu quay được mặt một thằng. Tra được chưa?
 
-Tín xoay laptop lại. Trên màn hình: một trang Facebook cá nhân. Ảnh đại diện: Gã Xăm cởi trần khoe hình xăm đầu hổ, đứng trước một chiếc xe máy. Tên: **Lý Văn Hùng – Hùng Hổ**. Nơi làm việc: **Công ty TNHH Dịch vụ Bảo vệ Hoàng Long**.
+Tín xoay laptop lại. Trên màn hình: một trang Facebook cá nhân. Ảnh đại diện: Hổ cởi trần khoe hình xăm đầu hổ, đứng trước một chiếc xe máy. Tên: **Đỗ Văn Hổ – Hổ**. Nơi làm việc: **Công ty TNHH Dịch vụ Bảo vệ Hoàng Long**.
 
 **CHỊ SÁU**
 (không ngẩng lên)
