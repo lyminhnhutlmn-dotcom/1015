@@ -20,8 +20,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 36 / 1m82 |
 | **Vóc dáng** | Gầy rắn, vai rộng, kiểu người tập võ chứ không tập gym |
-| **Gương mặt** | Góc hàm sắc, mắt sâu luôn như đang "đọc" người đối diện, vết sẹo mờ nhỏ ở cằm |
-| **Tóc** | Đen, ngắn, vuốt ngược tự nhiên, hơi rối về cuối ngày |
+| **Gương mặt** | Mặt dài hẹp, xương gò má cao, mắt sâu mí hơi sụp, môi mỏng, sẹo mờ 1 cm ở cằm. **Không** dùng chung khuôn với Nam |
+| **Tóc** | Đen, vuốt ngược, rối cuối ngày — không rẽ ngôi, không bóng như Nam |
 | **Da / Trang điểm** | Da sáng hồng kiểu Kinh thành thị, không trang điểm – chỉ dưỡng để da khoẻ. Cạo sạch, không ria |
 | **Trang phục chủ đạo** | Sơ mi linen màu ngà xắn tay đến khuỷu, quần âu xám than ống đứng, thắt lưng da nâu, boots da nâu, đồng hồ thép tối giản |
 | **Biến thể** | Đêm gala: vest đen mượn, hơi rộng vai. Hành động: cùng bộ nhưng rách, ướt, dính bột chữa cháy |
@@ -84,8 +84,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 55 / 1m78 |
 | **Vóc dáng** | Chắc, vai vuông, dáng đứng quân nhân |
-| **Gương mặt** | Nghiêm, chân mày đậm, mắt sâu không đọc được, nếp nhăn trán |
-| **Tóc** | Bạc trắng, cắt cua sát |
+| **Gương mặt** | Sọ rộng, trán nhiều rãnh ngang, mí nặng, mũi bề ngang, miệng mỏng. Mặt đại tá chứ không phải diễn viên. **Không** Khang già đi |
+| **Tóc** | Bạc trắng, cắt cua sát da đầu |
 | **Da / Trang điểm** | Da hồng khoẻ, không trang điểm, cạo râu sạch |
 | **Trang phục chủ đạo** | Thường phục: polo xanh navy, quần tây xám, giày da đen, đồng hồ thép cũ, ly cà phê đen giấy. Lễ phục: quân phục xanh rêu đầy đủ cấp hiệu (đêm gala) |
 | **Bảng màu** | Xanh rêu – Navy – Xám – Đen |
@@ -99,8 +99,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 36 / 1m80 |
 | **Vóc dáng** | Thể thao, cân đối – người "đẹp trai nhất đội" |
-| **Gương mặt** | Dễ mến, má lúm, nụ cười ấm – nhưng mắt phải diễn được hai trạng thái: ấm và trống rỗng |
-| **Tóc** | Đen, dài vừa, rẽ ngôi lệch gọn gàng |
+| **Gương mặt** | Sọ tròn hơn Khang, má đầy, lúm má trái khi cười, mắt to ấm. **Không** mặt dài mắt sâu như Khang |
+| **Tóc** | Đen dài hơn, rẽ ngôi lệch, mái đổ trán — không vuốt ngược |
 | **Da / Trang điểm** | Da hồng sáng, chăm sóc kỹ, hơi "quá đẹp" so với lương công an – gợi ý ngầm về tiền |
 | **Trang phục chủ đạo** | Sơ mi oxford xanh nhạt xắn tay, chinos navy, giày lười da nâu, vòng tay da mảnh, điện thoại luôn trên tay |
 | **Bảng màu** | Xanh nhạt – Navy – Nâu – Trắng |
@@ -114,8 +114,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 50 / 1m80 |
 | **Vóc dáng** | Săn chắc, dáng diễn giả, tay hay mở rộng khi nói |
-| **Gương mặt** | Phong độ, lịch lãm, nụ cười hiền "quen được chụp hình" – không bao giờ chạm tới mắt |
-| **Tóc** | Muối tiêu, chải chuốt hoàn hảo từng sợi |
+| **Gương mặt** | Năm mươi thật: sọ vuông mềm, cằm tròn, nếp cười, mí nặng. Nụ cười diễn giả không vào mắt. **Không** mặt 36 tuổi đội tóc muối tiêu |
+| **Tóc** | Muối tiêu, đường tóc lùi, chải từng sợi |
 | **Da / Trang điểm** | Da hồng mịn, chăm sóc spa định kỳ, có lớp phấn phủ rất mỏng cho máy quay |
 | **Trang phục chủ đạo** | Vest ba mảnh xám nhạt may đo, sơ mi trắng mở cổ không cà vạt, ghim cài áo hình trái tim vàng (logo Quỹ), đồng hồ vàng, giày oxford nâu bóng, vòng hạt ngọc bích nhỏ |
 | **Biến thể** | Gala: vest xám đậm hơn, có cà vạt. Sân thượng: vest xộc xệch, lần đầu không chỉnh tề |
