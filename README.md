@@ -17,6 +17,19 @@ Toàn bộ kịch bản gộp thành một tài liệu duy nhất (bìa, mục l
 | [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.html`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.html) | Trình duyệt web |
 | [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.txt`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.txt) | Notepad hoặc bất kỳ trình soạn thảo nào |
 
+## Character sheet (tạo hình nhân vật)
+
+Thiết kế tạo hình 8 nhân vật chính theo phong cách Sài Gòn 2026: hiện đại, cao ráo, trang phục tailored, da hồng hào trang điểm nhẹ. Mỗi sheet gồm toàn thân (trước / 3-4 / sau), cận mặt hai biểu cảm và bảng màu.
+
+| File | Nội dung |
+|---|---|
+| [`xuat-ban/Ho-So-1015-Character-Sheet.pdf`](xuat-ban/Ho-So-1015-Character-Sheet.pdf) | **Bản PDF trọn bộ** – lineup + 8 sheet + bảng thông số (tuổi, chiều cao, da, trang điểm, trang phục, bảng màu) |
+| [`character-sheet/character-lineup.jpg`](character-sheet/character-lineup.jpg) | Lineup so sánh chiều cao toàn dàn nhân vật |
+| [`character-sheet/character-sheet-*.jpg`](character-sheet/) | Sheet riêng từng nhân vật: Khang, Tín, Mai, Chị Sáu, Lực, Nam, Bảo, Sẹo |
+| [`character-sheet/character-sheet.md`](character-sheet/character-sheet.md) | Bản nguồn mô tả thông số và ghi chú hoá trang |
+
+![Lineup](character-sheet/character-lineup.jpg)
+
 ## Mục lục bản nguồn (Markdown)
 
 | File | Nội dung |
