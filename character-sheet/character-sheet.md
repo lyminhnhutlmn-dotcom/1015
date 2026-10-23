@@ -4,7 +4,7 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 
 - **Dân tộc / khuôn mặt:** toàn bộ là người Việt Kinh, Sài Gòn 2026. Mặt oval thon, xương gò má cao, mũi thẳng thanh, mắt một mí hoặc hai mí nhẹ kiểu Á Đông Việt, lông mày tự nhiên không dày kịch. Nam cạo sạch, không ria mép dày, không râu quai nón đậm. **Không** dùng gương mặt Thái / lakorn (da nâu sẫm, lông mày đậm, sống mũi cao kiểu lai).
 - **Ngoại hình:** đẹp, cao, vóc dáng cân đối. Nam từ 1m76 trở lên, nữ từ 1m68 trở lên.
-- **Da:** sáng hồng kiểu da Việt Nam thành thị – ivory ấm đến be hồng, má ửng, "glow" tự nhiên. Không da nâu sẫm, không rám nắng Thái. Trang điểm nhẹ *no-makeup makeup*.
+- **Da:** sáng hồng kiểu da Việt Nam thành thị – ivory ấm đến be hồng, má ửng. **Kết cấu da thật, không airbrush:** lỗ chân lông thấy được ở mũi và má, ánh dầu nhẹ vùng T, lông tơ, sắc tố hơi lệch, vết thời gian đúng tuổi. Ánh sáng xuyên lớp da (subsurface scattering), không da nhựa / glass skin.
 - **Trang phục:** hiện đại, tối giản, vừa vặn (slim/tailored), chất liệu tốt (linen, cotton, silk, wool). Mỗi nhân vật có một bảng màu riêng để dễ nhận diện trong khung hình.
 - **Nguyên tắc "đẹp nhưng thật":** không nhân vật nào trông như người mẫu quảng cáo; vẻ đẹp phải đi với nghề nghiệp và tính cách.
 
@@ -156,7 +156,7 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 ## Ghi chú cho bộ phận hoá trang
 
 - Tham chiếu tạo hình: diễn viên điện ảnh Việt Nam đương đại (Kinh, da sáng hồng), **không** tham chiếu phim Thái / lakorn.
-- Toàn bộ nhân vật dùng tông da **sáng hồng tự nhiên**: nền da mỏng, highlight nhẹ ở gò má và sống mũi, không contour đậm, không rám nắng giả.
-- Nam giới: cạo sạch, kẻ mày nhẹ, son dưỡng có màu, tuyệt đối không thấy "lớp" trang điểm trên màn hình. Không ria mép dày.
-- Nữ giới: *no-makeup makeup* – cushion mỏng, má hồng đào hoặc cam đất, son tiệp màu môi, mascara chuốt nhẹ.
+- Toàn bộ nhân vật dùng tông da **sáng hồng tự nhiên** và **kết cấu da thật**: lỗ chân lông, vân da, ánh dầu vùng T, không airbrush, không glass skin.
+- Nam giới: cạo sạch (còn bóng lông), kẻ mày nhẹ, son dưỡng. Không ria mép dày. Da phải đọc được tuổi.
+- Nữ giới: *no-makeup makeup* – cushion mỏng đến mức vẫn thấy lỗ chân lông, má hồng đào, son tiệp môi. Không foundation che kín da.
 - Độ "hoàn hảo" của da tỉ lệ nghịch với độ trung thực của nhân vật: **Bảo và Nam** da hoàn hảo nhất (có tiền, có che giấu); **Khang, Chị Sáu, Lực** da khoẻ nhưng có dấu vết thời gian; **Tín và Mai** trẻ, tươi, hồng tự nhiên.
