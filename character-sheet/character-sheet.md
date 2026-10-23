@@ -2,8 +2,9 @@
 
 Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách hiện đại, tân tiến. Nguyên tắc chung cho toàn bộ dàn diễn viên:
 
+- **Dân tộc / khuôn mặt:** toàn bộ là người Việt Kinh, Sài Gòn 2026. Mặt oval thon, xương gò má cao, mũi thẳng thanh, mắt một mí hoặc hai mí nhẹ kiểu Á Đông Việt, lông mày tự nhiên không dày kịch. Nam cạo sạch, không ria mép dày, không râu quai nón đậm. **Không** dùng gương mặt Thái / lakorn (da nâu sẫm, lông mày đậm, sống mũi cao kiểu lai).
 - **Ngoại hình:** đẹp, cao, vóc dáng cân đối. Nam từ 1m76 trở lên, nữ từ 1m68 trở lên.
-- **Da:** hồng hào, khoẻ mạnh, "glow" tự nhiên. Trang điểm nhẹ theo kiểu *no-makeup makeup* – không thấy lớp phấn, chỉ thấy da đẹp.
+- **Da:** sáng hồng kiểu da Việt Nam thành thị – ivory ấm đến be hồng, má ửng, "glow" tự nhiên. Không da nâu sẫm, không rám nắng Thái. Trang điểm nhẹ *no-makeup makeup*.
 - **Trang phục:** hiện đại, tối giản, vừa vặn (slim/tailored), chất liệu tốt (linen, cotton, silk, wool). Mỗi nhân vật có một bảng màu riêng để dễ nhận diện trong khung hình.
 - **Nguyên tắc "đẹp nhưng thật":** không nhân vật nào trông như người mẫu quảng cáo; vẻ đẹp phải đi với nghề nghiệp và tính cách.
 
@@ -21,7 +22,7 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 | **Vóc dáng** | Gầy rắn, vai rộng, kiểu người tập võ chứ không tập gym |
 | **Gương mặt** | Góc hàm sắc, mắt sâu luôn như đang "đọc" người đối diện, vết sẹo mờ nhỏ ở cằm |
 | **Tóc** | Đen, ngắn, vuốt ngược tự nhiên, hơi rối về cuối ngày |
-| **Da / Trang điểm** | Da nâu sáng hồng hào, không trang điểm – chỉ dưỡng để da khoẻ. Râu quai nón cạo sát, để lại bóng mờ |
+| **Da / Trang điểm** | Da sáng hồng kiểu Kinh thành thị, không trang điểm – chỉ dưỡng để da khoẻ. Cạo sạch, không ria |
 | **Trang phục chủ đạo** | Sơ mi linen màu ngà xắn tay đến khuỷu, quần âu xám than ống đứng, thắt lưng da nâu, boots da nâu, đồng hồ thép tối giản |
 | **Biến thể** | Đêm gala: vest đen mượn, hơi rộng vai. Hành động: cùng bộ nhưng rách, ướt, dính bột chữa cháy |
 | **Bảng màu** | Ngà – Xám than – Nâu da – Đen |
@@ -154,7 +155,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 
 ## Ghi chú cho bộ phận hoá trang
 
-- Toàn bộ nhân vật dùng tông da **hồng hào tự nhiên**: nền da mỏng, highlight nhẹ ở gò má và sống mũi, không contour đậm.
-- Nam giới: kẻ mày nhẹ, son dưỡng có màu, tuyệt đối không thấy "lớp" trang điểm trên màn hình.
+- Tham chiếu tạo hình: diễn viên điện ảnh Việt Nam đương đại (Kinh, da sáng hồng), **không** tham chiếu phim Thái / lakorn.
+- Toàn bộ nhân vật dùng tông da **sáng hồng tự nhiên**: nền da mỏng, highlight nhẹ ở gò má và sống mũi, không contour đậm, không rám nắng giả.
+- Nam giới: cạo sạch, kẻ mày nhẹ, son dưỡng có màu, tuyệt đối không thấy "lớp" trang điểm trên màn hình. Không ria mép dày.
 - Nữ giới: *no-makeup makeup* – cushion mỏng, má hồng đào hoặc cam đất, son tiệp màu môi, mascara chuốt nhẹ.
 - Độ "hoàn hảo" của da tỉ lệ nghịch với độ trung thực của nhân vật: **Bảo và Nam** da hoàn hảo nhất (có tiền, có che giấu); **Khang, Chị Sáu, Lực** da khoẻ nhưng có dấu vết thời gian; **Tín và Mai** trẻ, tươi, hồng tự nhiên.
