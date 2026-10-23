@@ -159,7 +159,7 @@ Trang nhân vật phụ — đủ tầng 2, tầng 3, tầng 4: [`nhan-vat-phu.m
 
 ## Nhân vật phụ – tạo hình
 
-Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kinh. Không cần đẹp như dàn chính – cần **đúng nghề, đúng tuổi**.
+Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kinh. Không cần đẹp như dàn chính – cần **đúng nghề, đúng tuổi**. Hà ≠ Linh ≠ Hương: mặt dài / mặt rộng kính mái / mặt tròn đuôi ngựa.
 
 ### 9. VŨ THANH HÀ – Nhà báo (nạn nhân)
 
@@ -168,8 +168,8 @@ Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kin
 | | |
 |---|---|
 | **Tuổi / Chiều cao** | 34 / 1m68 |
-| **Gương mặt** | Thanh, mắt thức đêm, môi mỏng |
-| **Tóc** | Đen, búi thấp lúc làm việc, xoã khi teaser |
+| **Gương mặt** | Dài hẹp, gò má cao, cằm nhọn, mắt sâu mí sụp. **Không** dùng chung khuôn với Linh / Hương |
+| **Tóc** | Đen, búi thấp, ngôi giữa — không mái, không đuôi ngựa |
 | **Trang phục** | Blazer xám nhàu, áo thun trắng, túi đeo chéo, giày bệt |
 | **Da** | Sáng hồng mệt, quầng mắt thật, không che |
 | **Bảng màu** | Xám – Trắng – Đen |
@@ -217,7 +217,7 @@ Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kin
 | | |
 |---|---|
 | **Tuổi / Chiều cao** | 33 / 1m68 |
-| **Gương mặt** | Kính gọng đen, mắt tránh nhìn |
+| **Gương mặt** | Mặt ngắn rộng, má đầy, kính gọng đen dày, mái thưa, nốt ruồi góc miệng trái. **Không** dùng chung khuôn với Hà / Hương |
 | **Trang phục** | Cardigan xám, sơ mi, thẻ toà soạn |
 | **Da** | Sáng, hơi khô vì đèn tuýp, cushion mỏng |
 | **Bảng màu** | Xám – Đen – Trắng |
@@ -229,7 +229,7 @@ Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kin
 | | |
 |---|---|
 | **Tuổi / Chiều cao** | 34 / 1m62 |
-| **Gương mặt** | Mệt, mắt thâm, đẹp vì thật |
+| **Gương mặt** | Hộp sọ tròn, trán rộng, mí sưng, đuôi ngựa cao rối. **Không** dùng chung khuôn với Hà / Linh |
 | **Trang phục** | Áo thun nhàu, quần jean, dép |
 | **Da** | Hồng mệt, không trang điểm |
 | **Bảng màu** | Xanh nhạt – Be |

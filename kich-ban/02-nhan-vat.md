@@ -74,6 +74,7 @@ Sheet và lineup đủ tầng 2–3–4: `character-sheet/nhan-vat-phu.md`.
 
 ### VŨ THANH HÀ (34) – Nữ nhà báo, nạn nhân
 
+- Mặt dài hẹp, búi thấp, quầng mắt. **Không** cùng khuôn với Linh / Hương.
 - Chỉ xuất hiện ở teaser mở đầu, các đoạn ghi âm, video và lá thư. Nhưng là người điều khiển toàn bộ phim từ bên kia: mọi manh mối đều do cô cố tình để lại. Giọng nói của cô mở phim và khép phim. Bài "Bình Chánh" bị gỡ; cô vẫn gửi bản nháp cho biên tập Mỹ Linh.
 
 ### NGUYỄN HOÀNG DŨNG (30) – Đồng đội đã chết của Khang
@@ -92,10 +93,12 @@ Những vai này đã có trong kịch bản nhưng trước đây chỉ là ch�
 
 ### TRẦN MỸ LINH (33) – Biên tập viên Báo Sài Gòn Mới  *(mới thêm)*
 
+- Mặt ngắn rộng, mái thưa, kính gọng đen dày. **Không** cùng khuôn với Hà / Hương.
 - Đồng nghiệp Hà, người gỡ bài Bình Chánh theo "điện thoại từ trên". Không phải ác: cô sợ mất việc, nuôi mẹ. Cảnh 9A: đưa Khang bản nháp Hà gửi đêm trước khi chết, rồi xin đừng nói là cô đưa. Chính cô giải thích vì sao "ba toà soạn sẽ gỡ" – và vô tình chỉ ra lối thoát của Hà: phải nói trước đám đông, không phải trước toà soạn.
 
 ### LÊ THỊ HƯƠNG (34) và BÉ MINH (4)  *(mới thêm)*
 
+- Mặt tròn, đuôi ngựa cao rối, không kính. **Không** cùng khuôn với Hà / Linh.
 - Mẹ đơn thân, khoa nhi. Bé Minh từng uống lô AS-AMX-2309-17 do Mai phát. Cảnh 40A: Minh viêm phổi lại, Hương hỏi Mai sao thuốc "không chịu". Mai nhận ra đứa thứ hai mươi ba không còn là số trên sổ. Không cần cho trẻ em chết trên màn ảnh – chỉ cần một bà mẹ không hiểu vì sao con không khỏi.
 
 ### PHẠM THỊ HOA (58) – Mẹ Tín  *(thêm mặt, trước chỉ có giọng)*

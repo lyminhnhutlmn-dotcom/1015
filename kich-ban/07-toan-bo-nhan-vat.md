@@ -2,7 +2,7 @@
 
 Danh sách đầy đủ. Tám chính có sheet. Phụ có tên, tuổi, mặt, sheet — hết ở `character-sheet/nhan-vat-phu.md`.
 
-Mặt phải **đọc được từ xa** trên điện thoại 9:16. Bốn người đàn ông Kinh tuổi 36–55 không được dùng chung một khuôn: Khang ≠ Nam ≠ Bảo ≠ Lực.
+Mặt phải **đọc được từ xa** trên điện thoại 9:16. Bốn người đàn ông Kinh tuổi 36–55 không được dùng chung một khuôn: Khang ≠ Nam ≠ Bảo ≠ Lực. Ba phụ nữ Kinh tuổi 33–34 cũng không: Hà ≠ Linh ≠ Hương.
 
 ---
 
@@ -18,6 +18,19 @@ Mặt phải **đọc được từ xa** trên điện thoại 9:16. Bốn ngư�
 | **Đọc trong 1 khung** | Sẹo cằm + tay áo xắn | Má lúm + điện thoại | Ghim vàng + tóc muối tiêu | Cua bạc + không nói |
 
 Tín (tóc vàng phai, CEO), Mai (kính vàng, đuôi ngựa), Chị Sáu (nữ 52, tạp dề), Sẹo (sẹo cổ, toàn đen) đã khác sẵn — không gộp vào nhóm này.
+
+## Khoá mặt — ba phụ nữ dễ lẫn
+
+| | Hà 34 | Linh 33 | Hương 34 |
+|---|---|---|---|
+| **Xương** | Mặt dài hẹp, gò má cao, cằm nhọn | Mặt ngắn rộng, hàm mềm, má đầy | Hộp sọ tròn, trán rộng, cằm ngắn |
+| **Mắt** | Sâu, mí sụp, quầng thật, không kính | To, tránh nhìn, kính gọng đen dày | Nhỏ, mí sưng mệt, không kính |
+| **Tóc** | Búi thấp, ngôi giữa, mượt | Mái thưa + búi lệch, tóc bay | Đuôi ngựa cao, rối, tóc con |
+| **Miệng** | Môi mỏng, mím | Môi dưới đầy, nốt ruồi góc miệng trái | Miệng rộng, môi khô |
+| **Áo** | Blazer xám, túi đeo chéo | Cardigan, thẻ toà soạn | Áo thun xanh, jean, dép |
+| **Đọc trong 1 khung** | Mặt dài + quầng + búi thấp | Kính dày + mái + búi lệch | Mặt tròn + đuôi ngựa cao |
+
+Mai (kính vàng mảnh, đuôi ngựa mượt) và Hạnh (bob ngắn, blouse) đã khác — không gộp vào nhóm này.
 
 ---
 
