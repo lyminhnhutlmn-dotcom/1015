@@ -36,7 +36,7 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 27 / 1m76 |
 | **Vóc dáng** | Mảnh, nhanh nhẹn, dáng đi hơi nhún nhảy |
-| **Gương mặt** | Nét trẻ, mắt to biểu cảm, nụ cười rộng "hớn hở", lông mày đậm |
+| **Gương mặt** | Nét trẻ, mắt to biểu cảm, nụ cười rộng "hớn hở", lông mày tự nhiên |
 | **Tóc** | Nhuộm vàng tro đã phai, chân tóc đen, cố tình rối |
 | **Da / Trang điểm** | Da trắng hồng, má ửng. Trang điểm nhẹ kiểu Gen Z nam: kem nền mỏng, son dưỡng có màu, kẻ mày |
 | **Trang phục chủ đạo** | Hoodie oversize màu kem in chữ "CEO" (tự in), quần cargo ô-liu, sneaker trắng đế dày, túi tote vải có mèo Hồ Sơ thò đầu, điện thoại gắn ring light mini |
@@ -132,7 +132,7 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 | **Vóc dáng** | Cao nhất phim, cơ bắp đặc, di chuyển không thừa động tác |
 | **Gương mặt** | Góc cạnh, mắt lạnh và tĩnh, vết sẹo dài mảnh từ sau tai phải chạy xuống cổ |
 | **Tóc** | Đen, húi cua |
-| **Da / Trang điểm** | Da ngăm hồng khoẻ, sẹo được làm nổi nhẹ bằng hiệu ứng, không trang điểm khác |
+| **Da / Trang điểm** | Da sáng hồng hơi ngăm khoẻ, sẹo được làm nổi nhẹ bằng hiệu ứng, không trang điểm khác |
 | **Trang phục chủ đạo** | Toàn đen "tactical-chic": áo cổ lọ đen ôm, jacket đen slim, quần cargo đen, boots chiến thuật, tai nghe dây xoắn, găng tay da đen giắt thắt lưng |
 | **Biến thể** | Phà Bình Khánh: mũ bảo hiểm fullface, áo khoác thường. Bếp khách sạn: cởi jacket, chỉ còn cổ lọ |
 | **Bảng màu** | Đen – Than – Nâu da (sẹo, da) |
