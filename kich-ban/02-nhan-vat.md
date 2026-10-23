@@ -74,6 +74,7 @@ Sheet và lineup đủ tầng 2–3–4: `character-sheet/nhan-vat-phu.md`.
 
 ### VŨ THANH HÀ (34) – Nữ nhà báo, nạn nhân
 
+- Mặt dài hẹp, búi thấp, quầng mắt. **Không** cùng khuôn với Linh / Hương.
 - Chỉ xuất hiện ở teaser mở đầu, các đoạn ghi âm, video và lá thư. Nhưng là người điều khiển toàn bộ phim từ bên kia: mọi manh mối đều do cô cố tình để lại. Giọng nói của cô mở phim và khép phim. Bài "Bình Chánh" bị gỡ; cô vẫn gửi bản nháp cho biên tập Mỹ Linh.
 
 ### NGUYỄN HOÀNG DŨNG (30) – Đồng đội đã chết của Khang
