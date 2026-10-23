@@ -3,6 +3,8 @@
 
 Bản này quay được. Không phải bản đồ mùa. Một tập. Một địa điểm. Tám câu thoại trở xuống.
 
+Phân cảnh đầy đủ (voice · bối cảnh · nhân vật từng shot): `phan-canh-tap-01.md`.
+
 | | |
 |---|---|
 | **Đồng hồ** | 8 giây móc / 40 giây ngoặt / 12 giây treo |
