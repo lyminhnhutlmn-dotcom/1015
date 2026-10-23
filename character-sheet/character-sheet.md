@@ -153,6 +153,101 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 | Bảo | 50 | 1m80 | Xám bạc / Vàng | Ghim trái tim |
 | Sẹo | 40 | 1m85 | Đen | Vết sẹo |
 
+---
+
+## Nhân vật phụ – tạo hình
+
+Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kinh. Không cần đẹp như dàn chính – cần **đúng nghề, đúng tuổi**.
+
+### 9. VŨ THANH HÀ – Nhà báo (nạn nhân)
+
+![Hà](character-sheet-ha.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 34 / 1m68 |
+| **Gương mặt** | Thanh, mắt thức đêm, môi mỏng |
+| **Tóc** | Đen, búi thấp lúc làm việc, xoã khi teaser |
+| **Trang phục** | Blazer xám nhàu, áo thun trắng, túi đeo chéo, giày bệt |
+| **Da** | Sáng hồng mệt, quầng mắt thật, không che |
+| **Bảng màu** | Xám – Trắng – Đen |
+
+### 10. ÔNG TƯ ĐỜN – LÊ VĂN TƯ – Cựu thủ kho
+
+![Ông Tư](character-sheet-ong-tu.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 62 / 1m70 |
+| **Gương mặt** | Gầy, râu bạc lởm chởm, nắng Cần Giờ |
+| **Trang phục** | Áo thun sờn, quần short kaki, dép tổ ong |
+| **Da** | Hồng ngăm khoẻ, nếp nhăn sâu, không airbrush |
+| **Bảng màu** | Be sờn – Nâu – Xám bạc |
+
+### 11. BÀ GIÁO LAN – NGUYỄN THỊ LAN
+
+![Bà Lan](character-sheet-ba-lan.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 70 / 1m58 |
+| **Gương mặt** | Mắt sáng, tóc bạc búi, nếp nhăn đẹp |
+| **Trang phục** | Áo bà ba lụa nhạt, quần đen, dép trong nhà |
+| **Da** | Mỏng, đốm tuổi, hồng ở má |
+| **Bảng màu** | Kem – Đen – Bạc |
+
+### 12. NGUYỄN HOÀNG DŨNG – Đồng đội (flashback)
+
+![Dũng](character-sheet-dung.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 30 / 1m78 |
+| **Gương mặt** | Trẻ, cười dấu V trên ảnh bàn Khang |
+| **Trang phục** | Quân phục cảnh sát / áo giáp đêm Bình Chánh |
+| **Da** | Hồng khoẻ, mồ hôi, không son phấn |
+| **Bảng màu** | Xanh rêu – Đen |
+
+### 13. TRẦN MỸ LINH – Biên tập viên
+
+![Linh](character-sheet-linh.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 33 / 1m68 |
+| **Gương mặt** | Kính gọng đen, mắt tránh nhìn |
+| **Trang phục** | Cardigan xám, sơ mi, thẻ toà soạn |
+| **Da** | Sáng, hơi khô vì đèn tuýp, cushion mỏng |
+| **Bảng màu** | Xám – Đen – Trắng |
+
+### 14. LÊ THỊ HƯƠNG – Mẹ bé Minh
+
+![Hương](character-sheet-huong.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 34 / 1m62 |
+| **Gương mặt** | Mệt, mắt thâm, đẹp vì thật |
+| **Trang phục** | Áo thun nhàu, quần jean, dép |
+| **Da** | Hồng mệt, không trang điểm |
+| **Bảng màu** | Xanh nhạt – Be |
+
+### 15. PHẠM THỊ HOA – Mẹ Tín
+
+![Hoa](character-sheet-hoa.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 58 / 1m60 |
+| **Gương mặt** | Ấm, tóc búi, nếp cười |
+| **Trang phục** | Áo bà ba lụa nhạt, mang nồi cơm bọc khăn |
+| **Da** | Hồng khoẻ chợ, đốm nắng |
+| **Bảng màu** | Kem – Nâu |
+
+### Tầng ba – không cần sheet riêng
+
+Hạnh (tóc ngắn, blouse Viện), Hải (quân phục, mặt khó xử), Hổ (xăm hổ cổ tay), Việt (mũ lưỡi trai), Ngọc (tóc búi, đồng phục An Sinh), Khoa (áo đen, tai nghe), Quân / My / Phát / Bà Tư Bánh / Sơn / MC Thanh / Hoàng / Long: hoá trang theo nghề, da thật, nét Kinh.
+
 ## Ghi chú cho bộ phận hoá trang
 
 - Tham chiếu tạo hình: diễn viên điện ảnh Việt Nam đương đại (Kinh, da sáng hồng), **không** tham chiếu phim Thái / lakorn.

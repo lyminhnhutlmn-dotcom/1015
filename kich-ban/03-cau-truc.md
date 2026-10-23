@@ -12,7 +12,8 @@ Thời lượng mục tiêu: 115 phút. Số trang kịch bản ≈ số phút.
 | 2 | **Thế giới thường ngày** | Văn phòng trên quán phở. Giới thiệu Khang (ngủ trên ghế, hồ sơ ngoại tình), Tín (livestream 37 view), chị Sáu (đòi nợ bằng phở). | Thiết lập tông hài + nhân vật |
 | 3 | **Lời mời gọi** | Mai tới thuê. Công an kết luận tự tử. Mai đưa bằng chứng phản bác + voicemail. Khang từ chối. | Catalyst |
 | 4 | **Từ chối → Chấp nhận** | Khang đọc lại bài báo Hà viết bênh anh hai năm trước. Flashback Dũng chết. Nhận vụ. | Debate → quyết định |
-| 5 | **Điều tra 1: Căn hộ Hà** | Tín giả nhân viên dọn nhà hậu tang. Căn hộ bị lục tinh vi. Vỉ thuốc ngủ còn nguyên. Mảnh giấy "T.Đ – Cần Giờ – thứ 5". Mèo Hồ Sơ. | Manh mối + hài |
+| 4A | **Toà soạn sợ** | Trần Mỹ Linh, người gỡ bài Bình Chánh, đưa bản nháp Hà gửi đêm trước khi chết: "đưa cho người dám đọc trước đám đông." | Plant climax + mặt người cho "báo chí gỡ bài" |
+| 5 | **Điều tra 1: Căn hộ Hà** | Tín giả nhân viên dọn nhà hậu tang (Quân – bảo vệ sảnh). Căn hộ bị lục tinh vi. Vỉ thuốc ngủ còn nguyên. Mảnh giấy "T.Đ – Cần Giờ – thứ 5". Mèo Hồ Sơ. Hổ + Việt đột nhập. | Manh mối + hài |
 | 6 | **Set piece 1: Cầu thang bộ** | Hai gã của Sẹo quay lại. Khang đánh bằng bình chữa cháy. Tín trốn trong tủ, livestream nhầm, vô tình quay được mặt một tên. Thoát qua ống rác. | Hành động đầu tiên |
 | 7 | **Ghép mảnh** | Tín "hack" (tra Facebook) ra gã: bảo vệ Công ty Hoàng Long – con của Tập đoàn An Sinh. Khang nhận ra An Sinh = vụ Bình Chánh. | Nâng cấp quy mô |
 | 8 | **Bạn cũ** | Khang gặp Nam ở quán cà phê gần Phòng CSHS. Nam cho xem ảnh hiện trường: vết mực lòng bàn tay "1015". Cảnh báo về Lực. | Giới thiệu Nam (mole ẩn) & Lực |
@@ -37,7 +38,7 @@ Thời lượng mục tiêu: 115 phút. Số trang kịch bản ≈ số phút.
 | # | Beat | Cảnh | Chức năng |
 |---|------|------|-----------|
 | 18 | **Đảo ngược Lực** | Phòng tạm giữ. Lực thả Khang. Tiết lộ: hai năm điều tra nội bộ, nghi Nam, đẩy Khang ra để cứu mạng. Chữ ký bị giả. Cho Khang 48 giờ. | Twist 1 |
-| 19 | **Khoa học lên tiếng** | Mai lấy mẫu lô thuốc ở bệnh viện, nhờ bạn ở Viện Kiểm nghiệm: 8% hoạt chất. | Chứng cứ nhưng chưa đủ |
+| 19 | **Khoa học lên tiếng** | Mai lấy mẫu, Hạnh ký 8,3%. Ra hành lang gặp chị Hương và bé Minh – một trong 23 đứa Mai đã phát đúng lô đó. | Chứng cứ + giá người |
 | 20 | **Giải mã lớp 2** | Khang xem lại camera hầm xe lúc 10:15 tối – thấy Sẹo vào. Không phải tự tử. Nhưng camera đã bị "mất" khỏi hồ sơ chính thức → ai lấy? Nam. | Nghi ngờ Nam nảy mầm |
 | 21 | **Giải mã lớp 3** | Mai nhớ "ngôi nhà bí mật": tủ gửi đồ Ga Sài Gòn. Tủ 1015. Máy ghi âm, USB, thư cho Mai. | Trái tim phim |
 | 22 | **Tất cả sự thật** | USB: video lời khai ông Tư, dòng tiền Quỹ → công ty ma, và **ghi âm Nam gọi cho Bảo** – Hà nghe lén được, đó là lý do cô chết. Khang sụp đổ: Nam là lý do Dũng chết. | Twist 2 – Dark Night |
@@ -54,7 +55,7 @@ Thời lượng mục tiêu: 115 phút. Số trang kịch bản ≈ số phút.
 | 28 | **Set piece 4: Bếp khách sạn** | Khang vs Sẹo – chảo, nồi, nước sôi, băng chuyền rửa chén. Khang thắng sát nút. | Đỉnh hành động |
 | 29 | **Tín nổ thật** | Tín lên sân khấu "nhầm", cướp mic, cắm USB thật vào máy trình chiếu (đã nổ với kỹ thuật viên rằng mình là đạo diễn). Video ông Tư, dòng tiền, ghi âm Nam chiếu lên LED trước 500 khách. Livestream 200.000 người. Lực dẫn C03 ập vào. | Đỉnh hài + đỉnh cảm xúc |
 | 30 | **Sân thượng** | Nam giữ Mai. Khang vs Nam – đối thoại về Dũng. Mai tự giải thoát (kim tiêm trong túi). Bảo bị dồn ra mép – đúng chỗ Hà rơi. Khang kéo hắn lại: "Mày sẽ sống. Để ra toà." | Climax cảm xúc, mirror teaser |
-| 31 | **Kết** | Bảo, Nam, Sẹo bị bắt. Lực đề nghị phục hồi – Khang từ chối. Mộ Hà. Tín 1 triệu follow – vẫn nổ. Biển "Phở Thám Tử". Mèo ngủ trên hồ sơ. Khách mới gõ cửa. Giọng Hà khép phim. | Resolution |
+| 31 | **Kết** | Bảo, Nam, Sẹo bị bắt. Lực đề nghị phục hồi – Khang từ chối. Mộ Hà. Tín 1 triệu follow – vẫn nổ. Biển "Phở Thám Tử". Mẹ Hoa xuống Quận 4, mang cơm. Mèo ngủ trên hồ sơ. Khách mới gõ cửa. Giọng Hà khép phim. | Resolution |
 
 ---
 

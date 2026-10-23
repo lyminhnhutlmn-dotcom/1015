@@ -66,13 +66,17 @@
 
 - Nghiện đờn ca tài tử (nên gọi là Tư Đờn). Giữ cuốn sổ xuất kho thật khi nhận ra lô thuốc "từ thiện" có số lô trùng với lô bị tiêu hủy. Trốn về Thạnh An, Cần Giờ. Chết trong tay Mai sau vụ đuổi bắt trên sông, kịp trao cuốn sổ.
 
-### BÀ GIÁO LAN (70) – Chủ căn hộ 1015, dì của ông Tư
+### BÀ GIÁO LAN – NGUYỄN THỊ LAN (70) – Chủ căn hộ 1015, dì của ông Tư
 
-- Giáo viên văn về hưu, nói chuyện bằng ca dao. Là lớp giải mã đầu tiên của con số 1015.
+- Giáo viên văn về hưu, nói chuyện bằng ca dao và tục ngữ. Là lớp giải mã đầu tiên của con số 1015. Nhìn người bằng việc nhỏ: dép để ngoài, mèo không theo người xấu.
 
 ### VŨ THANH HÀ (34) – Nữ nhà báo, nạn nhân
 
-- Chỉ xuất hiện ở teaser mở đầu, các đoạn ghi âm, video và lá thư. Nhưng là người điều khiển toàn bộ phim từ bên kia: mọi manh mối đều do cô cố tình để lại. Giọng nói của cô mở phim và khép phim.
+- Chỉ xuất hiện ở teaser mở đầu, các đoạn ghi âm, video và lá thư. Nhưng là người điều khiển toàn bộ phim từ bên kia: mọi manh mối đều do cô cố tình để lại. Giọng nói của cô mở phim và khép phim. Bài "Bình Chánh" bị gỡ; cô vẫn gửi bản nháp cho biên tập Mỹ Linh.
+
+### NGUYỄN HOÀNG DŨNG (30) – Đồng đội đã chết của Khang
+
+- Chỉ sống trong flashback kho Bình Chánh và trong ký ức. Câu cuối: *"Tụi nó biết trước mình tới."* Ảnh của Dũng để trên bàn Khang – không bàn thờ, không hoa, chỉ một khung 4x6 cũ. Cái chết của Dũng là lỗ thủng mà Nam và Lực cùng khoét, mỗi người một cách.
 
 ### MÈO "HỒ SƠ"
 
@@ -80,18 +84,81 @@
 
 ---
 
+## Nhân vật phụ – tầng hai (có thoại, có mặt)
+
+Những vai này đã có trong kịch bản nhưng trước đây chỉ là chức danh. Giờ có tên, có một nét, để dàn diễn viên phụ không bị "mất mặt".
+
+### TRẦN MỸ LINH (33) – Biên tập viên Báo Sài Gòn Mới  *(mới thêm)*
+
+- Đồng nghiệp Hà, người gỡ bài Bình Chánh theo "điện thoại từ trên". Không phải ác: cô sợ mất việc, nuôi mẹ. Cảnh 9A: đưa Khang bản nháp Hà gửi đêm trước khi chết, rồi xin đừng nói là cô đưa. Chính cô giải thích vì sao "ba toà soạn sẽ gỡ" – và vô tình chỉ ra lối thoát của Hà: phải nói trước đám đông, không phải trước toà soạn.
+
+### LÊ THỊ HƯƠNG (34) và BÉ MINH (4)  *(mới thêm)*
+
+- Mẹ đơn thân, khoa nhi. Bé Minh từng uống lô AS-AMX-2309-17 do Mai phát. Cảnh 40A: Minh viêm phổi lại, Hương hỏi Mai sao thuốc "không chịu". Mai nhận ra đứa thứ hai mươi ba không còn là số trên sổ. Không cần cho trẻ em chết trên màn ảnh – chỉ cần một bà mẹ không hiểu vì sao con không khỏi.
+
+### PHẠM THỊ HOA (58) – Mẹ Tín  *(thêm mặt, trước chỉ có giọng)*
+
+- Bán chè đậu xanh vỉa hè Tân Bình. Biết chuyện Campuchia từ ngày Tín về, đợi con tự nói. Cảnh 49: nghe điện thoại, hỏi "con ăn cơm chưa". Cảnh 63A: một mình xuống Quận 4, mang nồi cơm, ngồi ăn phở, không hỏi follow, không hỏi Campuchia. Tín hết nổ khi mẹ ngồi đó.
+
+### NGÔ THỊ HẠNH (32) – Dược sĩ Viện Kiểm nghiệm
+
+- Bạn học Mai, tóc ngắn, nói thẳng. Người ký kết quả 8,3%. Giới thiệu Mai vào Viện sau phim. Cần một người "đúng quy trình" để chứng cứ không mất trong cốp xe.
+
+### TRUNG TÁ PHẠM VĂN HẢI (44) – Đồng nghiệp cũ của Khang
+
+- Người dẫn lệnh triệu tập sau vụ cháy. Khó xử, không phải phe Bảo. Là mặt người của hệ thống: không ác, nhưng phải làm.
+
+### ĐỖ VĂN HỔ – "HỔ" (28) – Tay chân Sẹo (trước là "Gã Xăm")
+
+- Hình xăm đầu hổ cổ tay. Ít nói, hay hùng hổ. Bị bà Tư Bánh quật dao phết bơ. Recurring để Sẹo không phải đi một mình.
+
+### LÊ QUỐC VIỆT – "VIỆT" (32) – Tay chân Sẹo (trước là "Gã Mũ")
+
+- Hay đội mũ lưỡi trai / fullface. Canh sân thượng với Mai. Rút súng rồi bỏ chạy khi thế cờ lật. Là kẻ làm thuê biết lúc nào nên biến.
+
+### NGUYỄN THỊ NGỌC (35) – Thư ký Chủ tịch An Sinh
+
+- Tóc búi, hay lo. Tin thầy phong thuỷ vì cá rồng chết. Người mở cửa để Tín gặp Bảo.
+
+### TRẦN KHOA (25) – Kỹ thuật viên âm thanh – ánh sáng khách sạn Đế Vương
+
+- Áo đen, tai nghe, thuốc lá điện tử. Người bấm "SURPRISE". Mid-credits: tin nhắn "anh Vũ" – Khoa gõ lại "Anh Tuấn nào giới thiệu ạ?"
+
+---
+
+## Nhân vật phụ – tầng ba (một cảnh, một nét)
+
+| Tên | Tuổi | Cảnh | Nét |
+|---|---|---|---|
+| **Quân** | 40 | Sảnh Skyline | Bảo vệ vest, tin Tín vì áo thun in chữ to |
+| **Cô My** | 24 | Lễ tân An Sinh | Tin "khí nặng", gọi lên văn phòng |
+| **Anh Phát** | 45 | Ga Sài Gòn | Ngáp, tủ 1015, đưa mảnh giấy "Tên con búp bê" |
+| **Bà Tư Bánh** | 60 | Hẻm Quận 4 | Rượt Sẹo bằng dao phết bơ |
+| **Sơn** | 48 | Bếp Đế Vương | Bếp trưởng, bỏ đi khi Sẹo hất nồi súp |
+| **MC Thanh** | 38 | Gala | Cười gượng khi Tín cướp mic |
+| **Phi công Hoàng** | 41 | Sân thượng | Tắt máy, không bay cho người sắp vào tù |
+| **Gã IT Long** | 26 | Phòng VIP | Cắm USB giả, bị "meo meo" khoá máy |
+| **Anh review đồ ăn** / **hot girl mỹ phẩm** | — | Bàn KOL | Một câu, để Tín đứng dậy |
+| **Khách trẻ** | 22 | Cảnh 63 | Hỏi phở Thám tử Tín |
+
+---
+
 ## Sơ đồ quan hệ
 
 ```
-                 TRỊNH QUỐC BẢO (chủ mưu)
-                 /          |           \
-            SẸO (tay chân)  |        HOÀNG NAM (tay trong – ẩn)
+                      TRỊNH QUỐC BẢO (chủ mưu)
+                     /        |         \
+              SẸO + HỔ + VIỆT |      HOÀNG NAM (tay trong)
+                     NGỌC (thư ký)         |
                             |              |
-          [Thuốc giả – Quỹ Trái Tim Vàng]  | (giả là bạn)
+          [Thuốc giả – Quỹ Trái Tim Vàng]  |
                             |              |
-   ÔNG TƯ (tố giác) → VŨ THANH HÀ (nhà báo, chết) ← điều tra ← LÊ MINH KHANG
-         |                  |                                     |      \
-   BÀ GIÁO LAN          VŨ THANH MAI (em gái) ──── thuê ────────┘       TÍN NỔ
-                                                                          |
-                             THƯỢNG TÁ LỰC (bị nghi – thực ra là đồng minh)   CHỊ SÁU
+ ÔNG TƯ → HÀ (chết) ← LINH (gỡ bài / đưa nháp)
+    |         |                            \
+ BÀ LAN    MAI ── HẠNH (xét nghiệm)      KHANG ← DŨNG (chết)
+              \    HƯƠNG + BÉ MINH           |  \
+               \                             TÍN — MẸ HOA
+                \                            |
+                 LỰC (đồng minh ẩn)    HẢI (triệu tập)   CHỊ SÁU
+                                              KHOA (bấm SURPRISE)
 ```

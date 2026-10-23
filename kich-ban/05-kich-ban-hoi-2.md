@@ -634,16 +634,16 @@ Con mèo Hồ Sơ trong túi vải thêu, chỉ thò đầu.
 (trong lúc anh đi qua sảnh)
 Anh Khang không biết em đi. Anh Khang mà biết là anh Khang cản. Nhưng em tra rồi: ông Bảo mê phong thuỷ. Mê tới mức dời cửa chính công ty ba lần. Và người mê phong thuỷ thì không bao giờ đuổi thầy phong thuỷ – vì lỡ đuổi nhầm thầy giỏi là xui ba đời.
 
-Anh tới quầy lễ tân.
+Anh tới quầy lễ tân. **CÔ MY** (24, đồng phục An Sinh, nơ vàng) ngẩng lên.
 
-**LỄ TÂN**
+**MY**
 Dạ anh cần gì ạ?
 
 **TÍN**
 (giọng trầm, chậm, mắt lim dim)
 Tôi là thầy Tín Minh. Sư huynh của thầy Quách Lâm, người từng coi phong thuỷ cho ông Trịnh Quốc Bảo năm hai ngàn mười chín.
 
-**LỄ TÂN**
+**MY**
 Dạ, anh có hẹn không ạ?
 
 **TÍN**
@@ -656,7 +656,7 @@ Anh mở mắt, nhìn chằm chằm vào chậu cây kim tiền cạnh quầy.
 **TÍN (TIẾP)**
 Chậu cây này ai đặt?
 
-**LỄ TÂN**
+**MY**
 Dạ… bên hành chính–
 
 **TÍN**
@@ -664,7 +664,7 @@ Dạ… bên hành chính–
 
 Lễ tân tái mặt. (Cô vừa đọc tin hai bảo vệ của Hoàng Long bị cho nghỉ việc tuần trước – vì để lộ mặt lên một livestream.)
 
-**LỄ TÂN**
+**MY**
 Dạ… để em gọi lên văn phòng Chủ tịch.
 
 **TÍN**
@@ -676,15 +676,15 @@ Anh quay đi, bước về phía thang máy. Lễ tân luống cuống gọi đi
 
 Hành lang trải thảm. Tín đi chậm, la bàn trước ngực, miệng lẩm nhẩm "Nhất bạch, nhị hắc, tam bích…" – đọc từ cuốn sách lúc sáng, không hiểu gì.
 
-Một **THƯ KÝ** (35, tóc búi, mặt lo lắng) chạy ra.
+**NGUYỄN THỊ NGỌC** (35, tóc búi, mặt lo lắng) chạy ra.
 
-**THƯ KÝ**
+**NGỌC**
 Thầy! Thầy ơi, lễ tân báo lên. Thầy là bạn của thầy Quách Lâm?
 
 **TÍN**
 Sư đệ của tôi. Thiên tư kém, nhưng chăm.
 
-**THƯ KÝ**
+**NGỌC**
 Thầy Quách Lâm năm ngoái nói Chủ tịch nên đặt bể cá hướng Đông Nam–
 
 **TÍN**
@@ -699,7 +699,7 @@ Thư ký chỉ vào phòng chờ: một bể cá rồng khổng lồ, hướng �
 (lắc đầu, thở dài kiểu bác sĩ báo tin dữ)
 Cá này mấy con rồi?
 
-**THƯ KÝ**
+**NGỌC**
 Dạ… hồi đầu năm có ba con, giờ còn một.
 
 **TÍN**
@@ -712,7 +712,7 @@ Lúc đó, cửa phòng Chủ tịch mở. **TRỊNH QUỐC BẢO** (50, vest x�
 **BẢO**
 Chuyện gì ồn vậy?
 
-**THƯ KÝ**
+**NGỌC**
 Dạ anh, có thầy phong thuỷ, sư huynh thầy Quách Lâm, thầy nói bể cá–
 
 **BẢO**
@@ -1111,7 +1111,7 @@ Cùng đêm với vụ cháy.
 **KHANG**
 Cùng đêm.
 
-Hai chiếc xe công an rẽ vào hẻm. Bốn cảnh sát bước xuống. Người đi đầu – **TRUNG TÁ HẢI**, đồng nghiệp cũ của Khang, mặt khó xử.
+Hai chiếc xe công an rẽ vào hẻm. Bốn cảnh sát bước xuống. Người đi đầu – **TRUNG TÁ PHẠM VĂN HẢI** (44, đồng nghiệp cũ của Khang), mặt khó xử.
 
 **HẢI**
 Khang. Tao xin lỗi. Có lệnh triệu tập.
@@ -1260,7 +1260,7 @@ Tôi đã nói rồi. Cậu ngu tới mức không nhận tiền.
 
 ### 40. NỘI. PHÒNG XÉT NGHIỆM – VIỆN KIỂM NGHIỆM THUỐC – NGÀY
 
-Mai, áo blouse mượn, đứng cạnh một máy sắc ký lỏng. **DƯỢC SĨ HẠNH** (32, bạn học Mai, tóc ngắn) nhìn màn hình kết quả.
+Mai, áo blouse mượn, đứng cạnh một máy sắc ký lỏng. **NGÔ THỊ HẠNH** (32, bạn học Mai, tóc ngắn, blouse Viện) nhìn màn hình kết quả.
 
 **HẠNH**
 Mày lấy mẫu này ở đâu?
@@ -1288,6 +1288,45 @@ Mày bị sao vậy?
 
 **MAI**
 Tao phát lô này cho hai mươi ba đứa. Tao tra sổ rồi. Hai mươi ba.
+
+### 40A. NỘI. HÀNH LANG KHOA NHI – BỆNH VIỆN – NGÀY
+
+Mai ra khỏi thang máy Viện, vẫn mặc blouse mượn, đi tắt qua khoa nhi để trả áo. Hành lang ồn: xe tiêm, tiếng trẻ khóc.
+
+**LÊ THỊ HƯƠNG** (34, áo thun nhàu, mắt thâm) ngồi trên ghế nhựa, ôm **BÉ MINH** (4, thở khò khè, má đỏ). Hương ngẩng lên – nhận ra Mai.
+
+**HƯƠNG**
+Chị Mai. May quá chị còn ca.
+
+**MAI**
+Chị Hương. Minh sao?
+
+**HƯƠNG**
+Lại viêm. Lần thứ hai trong ba tháng. Hồi tháng mười chị phát thuốc cho chị, chị cho uống đúng liều, đúng ngày. Nó hết vài hôm rồi lại. Bác sĩ nói "kháng thuốc".
+(hạ giọng, xấu hổ)
+Chị nghĩ tại nhà chị. Nhà ẩm. Chị giặt đồ không kịp khô.
+
+Mai nhìn Minh. Nhìn túi thuốc trên ghế – vỏ gói cũ, mẹ Hương giữ làm "nếu hết thì mua lại". Mã lô in nhỏ: **AS-AMX-2309-17**.
+
+Mai ngồi xuống. Không nói mã lô. Không nói tám phần trăm. Cô sờ trán Minh.
+
+**MAI**
+Không phải tại nhà chị.
+
+**HƯƠNG**
+Tại sao?
+
+**MAI**
+Tại thuốc. Chị đừng cho uống gói đó nữa. Chị đợi tôi. Tôi xin bác sĩ kê lại – hàng khác.
+
+Hương nhìn Mai. Không hiểu hết. Chỉ gật.
+
+**HƯƠNG**
+Chị là người giỏi. Chị Mai phát là chị yên tâm.
+
+Mai đứng dậy. Tay cô run. Lần này cô không giấu được.
+
+Hai mươi ba. Minh là một.
 
 ### 41. NỘI. KHÁCH SẠN MINI QUẬN 4 – ĐÊM
 
@@ -1364,13 +1403,12 @@ Ba người nhìn nhau.
 
 Sảnh ga vắng, sàn đá bóng. Loa thông báo chuyến tàu SE. Một dãy tủ gửi đồ kim loại xám, bàn phím số.
 
-Mai đứng trước **tủ 1015**. Tay cô dừng trên bàn phím.
+Mai đứng trước **tủ 1015**. Tay cô dừng trên bàn phím. **ANH PHÁT** (45, đồng phục ga, mắt mệt) đứng cạnh, ngáp.
 
-**NHÂN VIÊN GA**
-(đứng cạnh, ngáp)
+**PHÁT**
 Tủ này thuê dài hạn, trả tiền trước sáu tháng. Có đăng ký người được mở thứ hai: Vũ Thanh Mai, có số CCCD. Chị cho xem giấy tờ. Mật khẩu chị tự nhập – người thuê có để lại gợi ý.
 
-Anh ta đưa một mảnh giấy. Dòng chữ tay của Hà: *"Tên con búp bê."*
+Phát đưa một mảnh giấy. Dòng chữ tay của Hà: *"Tên con búp bê."*
 
 Mai nhìn mảnh giấy. Nước mắt lần đầu tiên rơi trong phim – không nức nở, chỉ rơi.
 
@@ -1397,7 +1435,7 @@ Mai ôm nó vào ngực. Khang đặt tay lên vai cô – lần duy nhất tron
 (với nhân viên ga)
 Tủ này thuê tới khi nào?
 
-**NHÂN VIÊN GA**
+**PHÁT**
 Còn bốn tháng.
 
 **KHANG**
@@ -1506,7 +1544,7 @@ Hai xe máy vọt ra khỏi bãi. SUV đen nổ máy. Exciter theo sau.
 
 Khang đợi Exciter áp sát – rồi **đạp chân chống giữa xuống đường** đúng lúc nó vượt. Tiếng kim loại rít. Exciter chao, gã fullface mất lái, cày vào dải phân cách. Gã lồm cồm bò dậy, vẫn đội mũ.
 
-**Hẻm Quận 4.** Tín rẽ vào hẻm rộng hai mét. Nhà cửa san sát, dây điện chằng chịt, quán cóc lấn ra. Mai ngoái lại: SUV không vào được – nhưng cửa SUV mở, **Sẹo và Gã Xăm nhảy xuống, chạy bộ vào hẻm**. Sẹo chạy nhanh. Rất nhanh.
+**Hẻm Quận 4.** Tín rẽ vào hẻm rộng hai mét. Nhà cửa san sát, dây điện chằng chịt, quán cóc lấn ra. Mai ngoái lại: SUV không vào được – nhưng cửa SUV mở, **Sẹo và Hổ nhảy xuống, chạy bộ vào hẻm**. Sẹo chạy nhanh. Rất nhanh.
 
 **TÍN**
 (hét)
@@ -1514,13 +1552,13 @@ Chị ôm chặt!
 
 Hẻm rẽ trái. Rẽ phải. Một **xe bánh mì** đẩy ngang hẻm. Tín bóp thắng – không kịp – lách – đâm vào góc xe bánh mì. Xe bánh mì quay nửa vòng, bánh mì văng như pháo hoa, chai tương ớt vỡ. Tín và Mai không ngã – xe máy loạng choạng nhưng chạy tiếp.
 
-**BÀ BÁN BÁNH MÌ**
+**BÀ TƯ BÁNH**
 (rượt theo, cầm dao phết bơ)
 THẰNG QUỶ! ĐỨNG LẠI!
 
-Nhưng xe bánh mì đã chắn ngang hẻm. Sẹo lao tới, phải nhảy qua – trượt trên tương ớt – ngã. Gã Xăm va vào bà bán bánh mì. Bà quật dao phết bơ vào đầu hắn.
+Nhưng xe bánh mì đã chắn ngang hẻm. Sẹo lao tới, phải nhảy qua – trượt trên tương ớt – ngã. Hổ va vào **BÀ TƯ BÁNH** (60, tạp dề dầu, dao phết bơ). Bà quật dao phết bơ vào đầu hắn.
 
-**BÀ BÁN BÁNH MÌ (TIẾP)**
+**BÀ TƯ BÁNH (TIẾP)**
 Mày cũng đứng lại!
 
 **TÍN**
@@ -1738,15 +1776,15 @@ Tín ngồi trên yên xe máy, túi mì gói trên tay. Anh mở app Thầy Tư
 
 Anh nhìn màn hình rất lâu.
 
-Rồi anh mở điện thoại tới một số. **"Mẹ"**. Anh bấm gọi. Đổ chuông.
+Rồi anh mở điện thoại tới một số. **"Mẹ – Phạm Thị Hoa"**. Anh bấm gọi. Đổ chuông.
 
-**GIỌNG MẸ TÍN (ĐIỆN THOẠI)**
+**GIỌNG MẸ HOA (ĐIỆN THOẠI)**
 *Tín hả con? Giờ này sao con gọi?*
 
 **TÍN**
 Mẹ. Con… con muốn nói mẹ nghe một chuyện. Chuyện hồi con đi Singapore.
 
-**GIỌNG MẸ TÍN**
+**GIỌNG MẸ HOA**
 *Sao con?*
 
 Tín mở miệng. Đóng lại. Mở lại.
@@ -1763,14 +1801,14 @@ Con không gọi cho mẹ. Nhưng con gọi cho mẹ của người khác. Con x
 
 Im lặng rất dài. Tín nhắm mắt.
 
-**GIỌNG MẸ TÍN**
+**GIỌNG MẸ HOA**
 *…Con ăn cơm chưa?*
 
 **TÍN**
 (bật khóc, cười)
 Dạ chưa.
 
-**GIỌNG MẸ TÍN**
+**GIỌNG MẸ HOA**
 *Về nhà mẹ nấu. Chuyện kia… mẹ biết rồi. Mẹ biết từ hồi con về. Thằng con mình đi Singapore về mà gầy như cây tăm, nói dóc như Cuội. Mẹ đợi con tự nói.*
 *(ngừng)*
 *Hai năm con, lâu quá.*
@@ -1778,7 +1816,7 @@ Dạ chưa.
 **TÍN**
 Dạ.
 
-**GIỌNG MẸ TÍN**
+**GIỌNG MẸ HOA**
 *Giờ con đang làm gì?*
 
 **TÍN**
