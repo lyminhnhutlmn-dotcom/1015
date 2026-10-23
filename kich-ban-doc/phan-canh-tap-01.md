@@ -1,250 +1,231 @@
 # TẬP 01 — SỐ TRÊN LÒNG BÀN TAY
 # Kịch bản phân cảnh · Cảm · Voice · Bối cảnh · Nhân vật
-# Bản 2 — nhiều cảm hơn
+# Bản 3 — 30 giây
 
-9:16 · 60 giây · tiếng Việt.
+**File Tập 1 — sheet / bối cảnh / đạo cụ:** [`tap-01-phan-canh-va-anh.md`](tap-01-phan-canh-va-anh.md)
+
+9:16 · **30 giây** · tiếng Việt.
 
 Tập này không kể âm mưu. Tập này là **một người chị biết mình có thể không về**, để lại bốn số cho em, rồi chạy.
 
 | | |
 |---|---|
-| **Đồng hồ** | 8s móc / 40s ngoặt / 12s treo |
+| **Đồng hồ** | 4s móc / 18s ngoặt / 8s treo |
 | **Cung cảm** | Sợ → nhớ em → thương → nắm số → bị nhìn thấy |
 | **Set** | Hầm xe Skyline · Quận 7 · đêm |
-| **Plate** | `boi-canh/location-ham-xe-skyline.jpg` |
-| **Video mẫu** | `video/tap-01/tap-01-so-tren-long-ban-tay.mp4` |
+| **Ảnh** | Sheet Hà · 3 plate hầm · 5 đạo cụ |
+| **Shot** | 7. Gộp gót+chạy. Gộp một đôi+hai đôi. |
+
+Rút từ 60s: bỏ im sau thoại, bỏ shot gót riêng, bỏ shot giày thứ hai riêng. Không rút câu.
 
 ---
 
-## 0. Cung cảm — một phút, một người
+## 0. Cung cảm — nửa phút, một người
 
 Hà không diễn “nhà báo bị đuổi”. Hà diễn **chị**.
 
-Mai trên hộp thư đang sống một ngày thường. Giọng sáng. Đó là nhát dao. Hà nghe em còn vô sự — rồi phải nói như người sắp biến mất.
+Mai trên hộp thư đang sống một ngày thường. Giọng sáng. Đó là nhát dao.
 
 1015 không phải mật mã lạnh. Là chỗ hai đứa từng hẹn. Viết lên da vì giấy sẽ bị lấy. Nắm tay lại vì đó là em.
 
-Hai đôi giày không phải twist hành động. Là thế giới không cho chị nói hết.
+Hai đôi giày không phải twist. Chúng **vào trong một shot** — một dừng, hai kết.
 
-**Cảm cấm:** khóc to, run diễn, nhìn máy như MV. Nước mắt được **một lần** — ướt mi, không chảy. Giọng vỡ ở ba chữ cuối thôi.
+**Cảm cấm:** khóc to, run diễn, nhìn máy như MV. Nước mắt được **một lần** — ướt mi, không chảy. Giọng vỡ ở ba chữ cuối thôi. Không lấy lại 4 giây im sau “thương em”.
 
 ---
 
-## 1. Nhân vật — ai được lên hình, cảm gì
+## 1. Nhân vật
 
-| Mã | Tên | Tập này | Cảm phải đọc được trên 9:16 |
+| Mã | Tên | Tập này | Cảm trên 9:16 |
 |---|---|---|---|
-| **HÀ** | Vũ Thanh Hà · 34 · 1m68 | Hiện hình | Sợ thật (thở, ngoái). Thương em (mắt mềm khi nghe Mai). Cắn răng khi viết số. Nắm tay = ôm em. |
-| **MAI** | Vũ Thanh Mai · 30 | **Chỉ voice** | Không biết chị đang chết. Vui, vội, đời thường. **Không** thì thầm theo Hà. |
-| **—** | Hai người dưới gầm | Chỉ giày | Không cảm. Máy móc. Chậm. Biết mồi không chạy đâu được. |
+| **HÀ** | Vũ Thanh Hà · 34 · 1m68 | Hiện hình | Sợ (thở, ngoái). Mắt mềm nửa nhịp khi Mai. Cắn răng khi viết. Nắm = ôm em. |
+| **MAI** | Vũ Thanh Mai · 30 | **Chỉ voice** | Không biết chị đang chết. Vui, vội. |
+| **—** | Hai người dưới gầm | Chỉ giày | Không cảm. Máy móc. |
 
 **Khoá mặt Hà:** dài hẹp, búi thấp, quầng thật, blazer xám nhàu, túi đeo chéo, giày bệt. ≠ Linh ≠ Hương.  
-Sheet: `character-sheet/character-sheet-ha.jpg` · `character-sheet-mai.jpg`
+Ảnh: `kich-ban-doc/tap-01-anh/sheet-ha.jpg` · `sheet-ha-mat.jpg`
 
 Không gọi Sẹo. Không nói “tôi là nhà báo”.
 
 ---
 
-## 2. Bối cảnh — hầm xe cũng có cảm
+## 2. Bối cảnh
 
 **NỘI. HẦM XE SKYLINE – ĐÊM**
 
-Hầm không “xấu”. Hầm **lạnh với chị, ấm với em** — ấm chỉ đến từ màn hình Mai và một vệt điện thoại.
-
-| Lớp | Có gì | Cảm |
+| Plate | File | Shot |
 |---|---|---|
-| **Gần** | Cột, gầm xe, vũng, trần, da tay | Chật. Không chỗ trốn. |
-| **Giữa** | Hàng xe máy, Hà chạy | Đường hẹp như họng. |
-| **Xa** | Đèn cuối dãy, cửa đỏ | Cửa = sống. Đèn = không cứu được. |
+| Làn xe | `tap-01-anh/loc-ham-xe.jpg` | PC-01, PC-06 |
+| Gầm xe | `tap-01-anh/loc-gam-xe.jpg` | PC-05 |
+| Dốc + cửa đỏ | `tap-01-anh/loc-cua-do.jpg` | PC-06 |
 
-Sáng: huỳnh quang xanh-trắng **chớp theo nhịp tim**. Key ấm chỉ khi Mai “có mặt” trên máy. Viết số: một đèn lạnh trên da mồ hôi.  
-Cấm: neon, master phẳng, cắt sân thượng.
+Sáng: huỳnh quang xanh-trắng chớp theo nhịp tim. Key ấm chỉ khi Mai có mặt trên máy.  
+Cấm: neon, sân thượng.
 
 ---
 
-## 3. Voice — cue thu, diễn cảm
+## 3. Voice — cue thu
 
-Hai câu. Rút hơn bản 1. Cảm nằm ở chỗ **ngừng**, không ở chỗ giải thích.
+Hai câu. Không rút chữ. Rút **im**.
 
 | Cue | Giây | Ai | Cách đọc | Câu |
 |---|---|---|---|---|
-| **V1** | 0:06–0:08 | MAI · V.O. hộp thư | Sáng, nhanh, hơi cười. Như vừa bước ra khỏi nhà thuốc. **Không** biết đây là tin nhắn cuối. | Mai đây, để lại lời nhắn nha. |
-| **V2** | 0:14–0:24 | HÀ · thì thầm | Thấp. Nuốt một lần trước “nếu”. Ngừng sau “không về”. Số nói chậm, từng chữ. “Chị thương em” — vỡ, nhỏ hơn mọi chữ trước. Không diễn kịch. | Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em. |
+| **V1** | 0:03–0:05 | MAI · V.O. hộp thư | Sáng, nhanh, hơi cười. Không biết đây là tin cuối. | Mai đây, để lại lời nhắn nha. |
+| **V2** | 0:08–0:15 | HÀ · thì thầm | Thấp. Ngừng **một nhịp** sau “không về”. Số chậm, không lê. “Chị thương em” vỡ, nhỏ hơn. 0:15–0:16: hơi. Hết. | Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em. |
 
-**Bỏ** (bản 1, thừa, làm nguội): *Em nhớ số này. 1015. Em sẽ hiểu.*  
-Số đã viết trên da. “Em sẽ hiểu” là giảng. Tập này không giảng.
-
+**Bỏ:** *Em nhớ số này. 1015. Em sẽ hiểu.*  
 **Đọc số:** *một không một năm* — không “một nghìn mười lăm”.
 
-File TTS cũ `audio/ha.mp3` là bản dài. Thu lại theo V2. `audio/mai.mp3` giữ.
+**Nền:**
 
-**Nền = cảm bằng tai:**
-
-| Giây | Âm | Việc của cảm |
+| Giây | Âm | Cảm |
 |---|---|---|
-| 0:00–0:60 | Ầm hầm | Không cho yên |
-| 0:00–0:03 | Gót ướt + đèn *tíc* | Đã chạy. Tim. |
-| 0:03–0:08 | Gót + chuông quá lâu | Em không bắt máy |
-| 0:06 | V1 Mai | Ấm — Hà suýt đứng lại |
-| 0:08–0:14 | Bíp hộp thư | Cửa đóng. Chỉ còn lời nhắn. |
-| 0:24–0:28 | Hơi Hà + ầm | Nói xong. Còn sống. |
-| 0:28–0:38 | Bút trên da | Thương thành nét |
-| 0:38–0:54 | Oxford nặng, chậm | Chúng không vội. Chị thì có. |
-| 0:54–0:58 | Gót dồn + hơi rách | Chạy vì em, không vì mình |
+| 0:00–0:30 | Ầm hầm | Không yên |
+| 0:00–0:03 | Gót ướt + đèn *tíc* | Đã chạy |
+| 0:03 | V1 Mai | Ấm — nửa nhịp |
+| 0:05–0:08 | Bíp hộp thư | Cửa đóng |
+| 0:15–0:16 | Hơi Hà | Nói xong |
+| 0:16–0:21 | Bút trên da | Thương thành nét |
+| 0:21–0:26 | Oxford. Dừng. Bước hai. | Chúng nghe. Kết. |
+| 0:26–0:29 | Gót dồn + hơi rách | Giữ số |
 
 ---
 
-## 4. Phân cảnh — từng shot
+## 4. Phân cảnh — 7 shot
 
-Mỗi khối năm dòng: **Phân cảnh / Cảm / Voice / Bối cảnh / Nhân vật**.
+Mỗi khối: **Phân cảnh / Cảm / Voice / Bối cảnh / Nhân vật**.  
+Đạo cụ: `tap-01-anh/prop-*.jpg`. Không still diễn.
 
 ---
 
-### PC-01 · 0:00–0:03 · Shot 1 · MÓC
+### PC-01 · 0:00–0:04 · MÓC
 
-Không mở bằng trần trống. Mở bằng **người đang sợ**.
+Gộp gót + chạy. Không mở bằng trần trống.
 
 | | |
 |---|---|
-| **Phân cảnh** | Cận gót bệt đạp vũng. Máy nứt sáng trong tay, nảy theo bước. Trần chớp **trên** da tay — đèn là nhịp, không phải chủ thể. Still gần: `shot-02-chay.jpg` crop thấp, hoặc `shot-01-den.jpg` chỉ làm lớp sáng. |
-| **Cảm** | Đã chạy từ trước máy bật. Không kịp thở. Sợ ở chân, chưa ở mặt. |
-| **Voice** | Câm lời. Gót + *tíc* đèn. |
-| **Bối cảnh** | Bê tông ướt, phản chiếu đèn. Hàng xe máy hai mép. |
-| **Nhân vật** | Chỉ chân + tay Hà. Chưa mặt. |
+| **Phân cảnh** | Cận gót bệt đạp vũng, máy nứt sáng trong tay — **tilt lên** mặt trong cùng shot. Hà chạy về máy, ngoái một cái, vẫn chạy. |
+| **Cảm** | Đã sợ từ trước máy bật. Ngoái = hầm không trống. 0:03 mắt **mềm nửa nhịp** — Mai — rồi cứng. |
+| **Voice** | Gót + *tíc*. **V1 0:03** — *Mai đây, để lại lời nhắn nha.* |
+| **Bối cảnh** | Làn xe. Plate `loc-ham-xe.jpg`. |
+| **Nhân vật** | Chân rồi **HÀ** đầy người. Búi thấp, quầng. Mai không mặt. |
+
+Đạo cụ: giày bệt · máy nứt.
 
 ---
 
-### PC-02 · 0:03–0:08 · Shot 2 · MÓC
+### PC-02 · 0:04–0:08 · NGOẶT
 
 | | |
 |---|---|
-| **Phân cảnh** | Trung, từ gối lên mặt. Hà chạy về máy. Ngoái một cái — không thấy ai — vẫn chạy. Máy giơ, chuông. Still: `shot-02-chay.jpg` |
-| **Cảm** | Ngoái = hy vọng hầm trống. Mặt nói: không trống. Khi Mai vào (0:06) mắt **mềm nửa nhịp** — nhớ em — rồi cứng lại vì phải chạy. |
-| **Voice** | **V1 0:06** — MAI, sáng: *Mai đây, để lại lời nhắn nha.* Đối lập: em ở chỗ có đèn, chị ở hầm. |
-| **Bối cảnh** | Làn xe = họng. Đèn lạnh. Key ấm duy nhất = kính máy. |
-| **Nhân vật** | **HÀ** đầy người. Mặt dài, búi thấp, quầng. Mai không mặt — chỉ hơi ấm trong loa. |
-
----
-
-### PC-03 · 0:08–0:14 · Shot 3 · NGOẶT
-
-| | |
-|---|---|
-| **Phân cảnh** | Cận kính nứt. Tên *Mai*. Ngón cái run, bấm. Đưa máy lên tai. Still: `shot-03-may.jpg` |
-| **Cảm** | Chạm tên em như chạm người. Run vì thương, không vì lạnh. Một nhịp muốn nói “chị đây” — nuốt. |
+| **Phân cảnh** | Cận kính nứt. Tên *Mai*. Ngón cái run, bấm. Đưa máy lên tai. |
+| **Cảm** | Chạm tên em như chạm người. Nuốt “chị đây”. |
 | **Voice** | Câm lời. Bíp hộp thư. Chuông chết. |
-| **Bối cảnh** | Hầm bokeh. Cả thế giới tối. Mai = một ô sáng vỡ. |
-| **Nhân vật** | Tay Hà. Móng ngắn, da mệt. Mai = chữ. |
+| **Bối cảnh** | Hầm bokeh. Mai = một ô sáng vỡ. |
+| **Nhân vật** | Tay Hà. Mai = chữ. |
+
+Đạo cụ: máy nứt.
 
 ---
 
-### PC-04 · 0:14–0:28 · Shot 4 · NGOẶT
+### PC-03 · 0:08–0:16 · NGOẶT
 
-Đây là shot cảm của tập. 14 giây. Không nhét thêm thông tin.
+Shot cảm. **8 giây**, không 14. Không nhét thêm thông tin. Không 4 giây im sau thoại.
 
 | | |
 |---|---|
-| **Phân cảnh** | Cận mặt. Máy **áp tai trái**, dọc hàm. Mắt lệch máy — nhìn chỗ em không có. Nuốt. Nói. Mi ướt, không chảy. Still: `shot-04-ha.jpg` |
-| **Cảm** | Không “truyền mật mã”. **Xin lỗi vì sắp biến.** Mỗi ngừng là một lần không gọi tên cái chết. “Chị thương em” = lần duy nhất chị cho phép yếu. |
-| **Voice** | **V2 0:14–0:24** — *Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em.* 0:24–0:28: im. Hơi. Nghe bước dưới. |
-| **Bối cảnh** | Key ấm trên gò (như đèn nhà Mai). Nền xanh-đen. Không thành phố. |
-| **Nhân vật** | **HÀ** đầy khung. Quầng không che. Cấm kính / mái / đuôi ngựa. Cấm diễn “nữ anh hùng”. |
+| **Phân cảnh** | Cận mặt. Máy áp tai, dọc hàm. Mắt lệch máy. Nuốt. Nói. Mi ướt, không chảy. 0:15–0:16: hơi — hết. |
+| **Cảm** | Xin lỗi vì sắp biến. “Chị thương em” = lần duy nhất cho phép yếu. |
+| **Voice** | **V2 0:08–0:15** — *Mai… nếu chị không về. Một không một năm. Chỗ của hai chị em. Chị thương em.* |
+| **Bối cảnh** | Key ấm trên gò. Nền xanh-đen. |
+| **Nhân vật** | **HÀ** đầy khung. Cấm kính / mái / đuôi ngựa. |
 
 **Phụ đề:**  
-0:14 *Nếu chị không về.*  
-0:18 *Một không một năm.*  
-0:21 *Chỗ của hai chị em.*  
-0:24 *Chị thương em.*
+0:08 *Nếu chị không về.*  
+0:10 *Một không một năm.*  
+0:12 *Chỗ của hai chị em.*  
+0:14 *Chị thương em.*
 
 ---
 
-### PC-05 · 0:28–0:38 · Shot 5 · NGOẶT
+### PC-04 · 0:16–0:21 · NGOẶT
 
 | | |
 |---|---|
-| **Phân cảnh** | Cận lòng bàn tay trái. Tắt máy (Mai tắt theo). Bút. Viết **1015** — bốn số, nét run. Số 1 đầu tiên sai một tẹo, viết đè. Still: `shot-05-1015.jpg` |
-| **Cảm** | Giấy sẽ bị lấy. Da còn là của chị. Viết như gửi em một chỗ về. Không gọn. Không đẹp. |
-| **Voice** | Câm. Bút. Ầm. Bước xa bắt đầu — chị nghe, **không ngẩng**. Xong số đã. |
-| **Bối cảnh** | Da = gần, ấm. Hầm = xa, lạnh. Mồ hôi làm số nhoè nhẹ. |
+| **Phân cảnh** | Cận lòng bàn tay trái. Tắt máy. Bút. Viết **1 0 1 5** — bốn số, nét run, 1 đầu đè. Xong trong 5 giây. |
+| **Cảm** | Giấy sẽ bị lấy. Da còn là của chị. |
+| **Voice** | Câm. Bút. Bước xa — chị nghe, **không ngẩng**. |
+| **Bối cảnh** | Da gần, ấm. Hầm xa, lạnh. |
 | **Nhân vật** | Tay Hà. Số là thư. |
 
+Đạo cụ: bút bi. Khóa số: bốn ký tự, không `10155`.
+
 ---
 
-### PC-06 · 0:38–0:48 · Shot 6 · NGOẶT → TREO
+### PC-05 · 0:21–0:26 · TREO
+
+Gộp một đôi + đôi hai. Cùng góc.
 
 | | |
 |---|---|
-| **Phân cảnh** | Gầm xe bảy chỗ. Một đôi oxford. Cách ba mét. Chúng **dừng**. Still: `shot-06-giay.jpg` |
-| **Cảm** | Chị vừa nói thương em. Thế giới trả lời bằng một đôi giày. Dừng = “tao nghe”. |
-| **Voice** | Câm. Bước dừng. Im đột ngột nặng hơn bước. |
-| **Bối cảnh** | Gầm tối / vũng / đèn xa. Không bánh xe giả làm chân thứ ba. |
+| **Phân cảnh** | Gầm xe. Một đôi oxford **đã đứng**. Đôi thứ hai bước vào, dừng. Bốn giày. Không cắt. |
+| **Cảm** | 0:21 dừng = “tao nghe”. 0:24 đôi hai = hết thương lượng. |
+| **Voice** | Câm. Bước. Im. Bước hai. Đứng. |
+| **Bối cảnh** | Plate `loc-gam-xe.jpg`. Không bánh xe giả làm chân thứ ba. |
 | **Nhân vật** | Không mặt. Không gọi Sẹo. |
 
----
-
-### PC-07 · 0:48–0:54 · Shot 7 · TREO
-
-| | |
-|---|---|
-| **Phân cảnh** | Cùng góc. Đôi thứ hai vào. Bốn giày. Still: `shot-07-hai-doi.jpg` |
-| **Cảm** | Một người là đuổi. Hai người là **kết**. Chị không còn thương lượng. |
-| **Voice** | Câm. Một bước. Đứng. |
-| **Bối cảnh** | Giữ set. Không zoom “cho ghê”. |
-| **Nhân vật** | Hai người. Không sẹo, không xăm, không mũ. |
+Đạo cụ: oxford.
 
 ---
 
-### PC-08 · 0:54–0:58 · Shot 8 · TREO
+### PC-06 · 0:26–0:29 · TREO
 
 | | |
 |---|---|
-| **Phân cảnh** | Hà từ sau. Lao về cửa đỏ. Tay trái **nắm** — 1015 giấu trong lòng bàn tay, như nắm tay em. Still: `shot-08-cua.jpg` |
-| **Cảm** | Không chạy thoát thân. Chạy **giữ số**. Vai cứng, không quay lại. Quay lại là khóc. |
+| **Phân cảnh** | Hà từ sau. Lao về cửa đỏ. Tay trái **nắm** — 1015 trong lòng bàn tay. |
+| **Cảm** | Không thoát thân. Chạy **giữ số**. Không quay lại. |
 | **Voice** | Câm. Gót dồn. Hơi rách. |
-| **Bối cảnh** | Dốc ướt, cửa đỏ. Ba lớp. Không chữ EXIT. |
+| **Bối cảnh** | Plate `loc-cua-do.jpg`. Không chữ EXIT. |
 | **Nhân vật** | Hà sau lưng. Búi thấp, blazer, túi. |
 
 ---
 
-### PC-09 · 0:58–1:00 · Shot 9 · CARD
+### PC-07 · 0:29–0:30 · CARD
 
 | | |
 |---|---|
-| **Phân cảnh** | Đóng băng hai đôi giày. Chữ thế giới. Không fade. |
-| **Cảm** | Câu hỏi của mùa **và** của chị: ai đã biết chỗ của hai chị em. |
+| **Phân cảnh** | Đóng băng hai đôi. Chữ thế giới. Không fade. 1 giây. |
+| **Cảm** | Ai đã biết chỗ của hai chị em. |
 | **Voice** | Câm. Ầm giữ. |
 | **Bối cảnh** | Gầm tối thêm một nấc. |
-| **Nhân vật** | Hai đôi. Hà đã khỏi khung — số còn trên da, ngoài hình. |
+| **Nhân vật** | Hai đôi. Hà khỏi khung. |
 
 **Chữ:** `1015 · CHỖ CỦA HAI CHỊ EM` · `TẬP SAU`
 
-(Không dùng một mình `AI Ở DƯỚI HẦM?` — hỏi đúng giày, sai mùa, nguội cảm.)
-
 ---
 
-## 5. Bảng tổng — việc + cảm
+## 5. Bảng tổng
 
-| PC | Giây | Việc | Cảm đọc được khi tắt tiếng |
+| PC | Giây | Việc | Cảm tắt tiếng |
 |---|---|---|---|
-| 01 | 0:00–0:03 | Gót + máy nứt | Đã sợ |
-| 02 | 0:03–0:08 | Chạy, ngoái, Mai reo | Sợ + nhớ em nửa nhịp |
-| 03 | 0:08–0:14 | Chạm tên Mai | Thương, nuốt |
-| 04 | 0:14–0:28 | Thì thầm rồi im | Xin lỗi / thương |
-| 05 | 0:28–0:38 | Viết 1015 | Gửi em trên da |
-| 06 | 0:38–0:48 | Một đôi dừng | Bị nghe |
-| 07 | 0:48–0:54 | Đôi thứ hai | Hết đường nói |
-| 08 | 0:54–0:58 | Chạy, nắm tay | Giữ số = giữ em |
-| 09 | 0:58–1:00 | Card | 1015 là chỗ hai chị em |
+| 01 | 0:00–0:04 | Gót → chạy, ngoái, Mai | Đã sợ + nhớ em nửa nhịp |
+| 02 | 0:04–0:08 | Chạm tên Mai | Thương, nuốt |
+| 03 | 0:08–0:16 | Thì thầm | Xin lỗi / thương |
+| 04 | 0:16–0:21 | Viết 1 0 1 5 | Gửi em trên da |
+| 05 | 0:21–0:26 | Một đôi → hai đôi | Bị nghe → hết đường |
+| 06 | 0:26–0:29 | Chạy, nắm tay | Giữ số = giữ em |
+| 07 | 0:29–0:30 | Card | 1015 là chỗ hai chị em |
 
 ---
 
-## 6. Luật — nếu sai thì viết lại
+## 6. Luật
 
 1. Một set. Không sân thượng.  
-2. Hai câu. Mai sáng. Hà vỡ ở cuối.  
-3. 1015 = bốn số trên da. Không nói “1015” thành tiếng lần hai.  
+2. Hai câu. Mai sáng. Hà vỡ ở cuối. Không rút chữ — rút im.  
+3. 1015 = bốn số trên da.  
 4. Hà ≠ Linh ≠ Hương.  
-5. Giày chưa là Sẹo.  
-6. Tắt tiếng: gót → máy → da → hai đôi → nắm tay.  
+5. Giày chưa là Sẹo. Hai đôi **một shot**.  
+6. Tắt tiếng: gót → máy → da → bốn giày → nắm tay.  
 7. Cảm nằm ở **ngừng** và **nắm**, không ở nước mắt.  
-8. Treo bán **chỗ của hai chị em**, không bán “còn tiếp”.
+8. Treo bán **chỗ của hai chị em**.  
+9. Đủ 30.00. Không 31.
