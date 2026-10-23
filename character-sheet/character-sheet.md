@@ -10,6 +10,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 
 ![Lineup](character-lineup.jpg)
 
+Trang nhân vật phụ — đủ tầng 2, tầng 3, tầng 4: [`nhan-vat-phu.md`](nhan-vat-phu.md)
+
 ---
 
 ## 1. LÊ MINH KHANG – Thám tử tư
@@ -20,8 +22,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 36 / 1m82 |
 | **Vóc dáng** | Gầy rắn, vai rộng, kiểu người tập võ chứ không tập gym |
-| **Gương mặt** | Góc hàm sắc, mắt sâu luôn như đang "đọc" người đối diện, vết sẹo mờ nhỏ ở cằm |
-| **Tóc** | Đen, ngắn, vuốt ngược tự nhiên, hơi rối về cuối ngày |
+| **Gương mặt** | Mặt dài hẹp, xương gò má cao, mắt sâu mí hơi sụp, môi mỏng, sẹo mờ 1 cm ở cằm. **Không** dùng chung khuôn với Nam |
+| **Tóc** | Đen, vuốt ngược, rối cuối ngày — không rẽ ngôi, không bóng như Nam |
 | **Da / Trang điểm** | Da sáng hồng kiểu Kinh thành thị, không trang điểm – chỉ dưỡng để da khoẻ. Cạo sạch, không ria |
 | **Trang phục chủ đạo** | Sơ mi linen màu ngà xắn tay đến khuỷu, quần âu xám than ống đứng, thắt lưng da nâu, boots da nâu, đồng hồ thép tối giản |
 | **Biến thể** | Đêm gala: vest đen mượn, hơi rộng vai. Hành động: cùng bộ nhưng rách, ướt, dính bột chữa cháy |
@@ -84,8 +86,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 55 / 1m78 |
 | **Vóc dáng** | Chắc, vai vuông, dáng đứng quân nhân |
-| **Gương mặt** | Nghiêm, chân mày đậm, mắt sâu không đọc được, nếp nhăn trán |
-| **Tóc** | Bạc trắng, cắt cua sát |
+| **Gương mặt** | Sọ rộng, trán nhiều rãnh ngang, mí nặng, mũi bề ngang, miệng mỏng. Mặt đại tá chứ không phải diễn viên. **Không** Khang già đi |
+| **Tóc** | Bạc trắng, cắt cua sát da đầu |
 | **Da / Trang điểm** | Da hồng khoẻ, không trang điểm, cạo râu sạch |
 | **Trang phục chủ đạo** | Thường phục: polo xanh navy, quần tây xám, giày da đen, đồng hồ thép cũ, ly cà phê đen giấy. Lễ phục: quân phục xanh rêu đầy đủ cấp hiệu (đêm gala) |
 | **Bảng màu** | Xanh rêu – Navy – Xám – Đen |
@@ -99,8 +101,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 36 / 1m80 |
 | **Vóc dáng** | Thể thao, cân đối – người "đẹp trai nhất đội" |
-| **Gương mặt** | Dễ mến, má lúm, nụ cười ấm – nhưng mắt phải diễn được hai trạng thái: ấm và trống rỗng |
-| **Tóc** | Đen, dài vừa, rẽ ngôi lệch gọn gàng |
+| **Gương mặt** | Sọ tròn hơn Khang, má đầy, lúm má trái khi cười, mắt to ấm. **Không** mặt dài mắt sâu như Khang |
+| **Tóc** | Đen dài hơn, rẽ ngôi lệch, mái đổ trán — không vuốt ngược |
 | **Da / Trang điểm** | Da hồng sáng, chăm sóc kỹ, hơi "quá đẹp" so với lương công an – gợi ý ngầm về tiền |
 | **Trang phục chủ đạo** | Sơ mi oxford xanh nhạt xắn tay, chinos navy, giày lười da nâu, vòng tay da mảnh, điện thoại luôn trên tay |
 | **Bảng màu** | Xanh nhạt – Navy – Nâu – Trắng |
@@ -114,8 +116,8 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 |---|---|
 | **Tuổi / Chiều cao** | 50 / 1m80 |
 | **Vóc dáng** | Săn chắc, dáng diễn giả, tay hay mở rộng khi nói |
-| **Gương mặt** | Phong độ, lịch lãm, nụ cười hiền "quen được chụp hình" – không bao giờ chạm tới mắt |
-| **Tóc** | Muối tiêu, chải chuốt hoàn hảo từng sợi |
+| **Gương mặt** | Năm mươi thật: sọ vuông mềm, cằm tròn, nếp cười, mí nặng. Nụ cười diễn giả không vào mắt. **Không** mặt 36 tuổi đội tóc muối tiêu |
+| **Tóc** | Muối tiêu, đường tóc lùi, chải từng sợi |
 | **Da / Trang điểm** | Da hồng mịn, chăm sóc spa định kỳ, có lớp phấn phủ rất mỏng cho máy quay |
 | **Trang phục chủ đạo** | Vest ba mảnh xám nhạt may đo, sơ mi trắng mở cổ không cà vạt, ghim cài áo hình trái tim vàng (logo Quỹ), đồng hồ vàng, giày oxford nâu bóng, vòng hạt ngọc bích nhỏ |
 | **Biến thể** | Gala: vest xám đậm hơn, có cà vạt. Sân thượng: vest xộc xệch, lần đầu không chỉnh tề |
@@ -152,6 +154,177 @@ Thiết kế tạo hình nhân vật. Bối cảnh Sài Gòn 2026, phong cách h
 | Nam | 36 | 1m80 | Xanh nhạt / Navy | Má lúm |
 | Bảo | 50 | 1m80 | Xám bạc / Vàng | Ghim trái tim |
 | Sẹo | 40 | 1m85 | Đen | Vết sẹo |
+
+---
+
+## Nhân vật phụ – tạo hình
+
+Cùng layout với Khang: studio trắng, 3 góc + close-up, da thật, nét Kinh. Không cần đẹp như dàn chính – cần **đúng nghề, đúng tuổi**.
+
+### 9. VŨ THANH HÀ – Nhà báo (nạn nhân)
+
+![Hà](character-sheet-ha.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 34 / 1m68 |
+| **Gương mặt** | Thanh, mắt thức đêm, môi mỏng |
+| **Tóc** | Đen, búi thấp lúc làm việc, xoã khi teaser |
+| **Trang phục** | Blazer xám nhàu, áo thun trắng, túi đeo chéo, giày bệt |
+| **Da** | Sáng hồng mệt, quầng mắt thật, không che |
+| **Bảng màu** | Xám – Trắng – Đen |
+
+### 10. ÔNG TƯ ĐỜN – LÊ VĂN TƯ – Cựu thủ kho
+
+![Ông Tư](character-sheet-ong-tu.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 62 / 1m70 |
+| **Gương mặt** | Gầy, râu bạc lởm chởm, nắng Cần Giờ |
+| **Trang phục** | Áo thun sờn, quần short kaki, dép tổ ong |
+| **Da** | Hồng ngăm khoẻ, nếp nhăn sâu, không airbrush |
+| **Bảng màu** | Be sờn – Nâu – Xám bạc |
+
+### 11. BÀ GIÁO LAN – NGUYỄN THỊ LAN
+
+![Bà Lan](character-sheet-ba-lan.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 70 / 1m58 |
+| **Gương mặt** | Mắt sáng, tóc bạc búi, nếp nhăn đẹp |
+| **Trang phục** | Áo bà ba lụa nhạt, quần đen, dép trong nhà |
+| **Da** | Mỏng, đốm tuổi, hồng ở má |
+| **Bảng màu** | Kem – Đen – Bạc |
+
+### 12. NGUYỄN HOÀNG DŨNG – Đồng đội (flashback)
+
+![Dũng](character-sheet-dung.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 30 / 1m78 |
+| **Gương mặt** | Trẻ, cười dấu V trên ảnh bàn Khang |
+| **Trang phục** | Quân phục cảnh sát / áo giáp đêm Bình Chánh |
+| **Da** | Hồng khoẻ, mồ hôi, không son phấn |
+| **Bảng màu** | Xanh rêu – Đen |
+
+### 13. TRẦN MỸ LINH – Biên tập viên
+
+![Linh](character-sheet-linh.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 33 / 1m68 |
+| **Gương mặt** | Kính gọng đen, mắt tránh nhìn |
+| **Trang phục** | Cardigan xám, sơ mi, thẻ toà soạn |
+| **Da** | Sáng, hơi khô vì đèn tuýp, cushion mỏng |
+| **Bảng màu** | Xám – Đen – Trắng |
+
+### 14. LÊ THỊ HƯƠNG – Mẹ bé Minh
+
+![Hương](character-sheet-huong.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 34 / 1m62 |
+| **Gương mặt** | Mệt, mắt thâm, đẹp vì thật |
+| **Trang phục** | Áo thun nhàu, quần jean, dép |
+| **Da** | Hồng mệt, không trang điểm |
+| **Bảng màu** | Xanh nhạt – Be |
+
+### 15. PHẠM THỊ HOA – Mẹ Tín
+
+![Hoa](character-sheet-hoa.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 58 / 1m60 |
+| **Gương mặt** | Ấm, tóc búi, nếp cười |
+| **Trang phục** | Áo bà ba lụa nhạt, mang nồi cơm bọc khăn |
+| **Da** | Hồng khoẻ chợ, đốm nắng |
+| **Bảng màu** | Kem – Nâu |
+
+Toàn bộ nhân vật phụ — sheet, lineup, tầng 4 — nằm ở **[trang nhân vật phụ](nhan-vat-phu.md)**. Không để sót vai có tên.
+
+### 16. NGÔ THỊ HẠNH – Viện Kiểm nghiệm
+
+![Hạnh](character-sheet-hanh.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 32 / 1m68 |
+| **Gương mặt** | Tóc bob ngắn, mắt nói thẳng |
+| **Trang phục** | Blouse trắng, quần đen, vỉ thuốc |
+| **Da** | Sáng, khô phòng lab |
+| **Bảng màu** | Trắng – Đen – Xám |
+
+### 17. TRUNG TÁ PHẠM VĂN HẢI
+
+![Hải](character-sheet-hai.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 44 / 1m76 |
+| **Gương mặt** | Trán cao, tóc mỏng, miệng khó xử. Không cua bạc như Lực |
+| **Trang phục** | Sơ mi quân phục rêu |
+| **Da** | Hồng khoẻ, nếp mệt |
+| **Bảng màu** | Rêu – Đen |
+
+### 18. ĐỖ VĂN HỔ
+
+![Hổ](character-sheet-ho.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 28 / 1m75 |
+| **Gương mặt** | Trẻ hơn Sẹo, không sẹo cổ |
+| **Trang phục** | Bomber đen, jean, xăm hổ cổ tay trái |
+| **Da** | Hồng ngăm, lỗ chân lông |
+| **Bảng màu** | Đen |
+
+### 19. LÊ QUỐC VIỆT
+
+![Việt](character-sheet-viet.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 32 / 1m77 |
+| **Gương mặt** | Hẹp hơn Hổ, mắt thận trọng |
+| **Trang phục** | Áo khoác đen, mũ lưỡi trai |
+| **Da** | Sáng hồng, không xăm |
+| **Bảng màu** | Đen – Navy |
+
+### 20. NGUYỄN THỊ NGỌC – Thư ký An Sinh
+
+![Ngọc](character-sheet-ngoc.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 35 / 1m65 |
+| **Gương mặt** | Tóc búi, miệng lo |
+| **Trang phục** | Sơ mi xám, chân váy, thẻ tên |
+| **Da** | Cushion mỏng, vẫn thấy lỗ chân lông |
+| **Bảng màu** | Xám – Be |
+
+### 21. TRẦN KHOA – Booth Đế Vương
+
+![Khoa](character-sheet-khoa.jpg)
+
+| | |
+|---|---|
+| **Tuổi / Chiều cao** | 25 / 1m72 |
+| **Gương mặt** | Trẻ, gầy, mụn nhẹ, tai nghe |
+| **Trang phục** | Áo đen, cargo, pack không dây |
+| **Da** | Sáng hồng tuổi 25 |
+| **Bảng màu** | Đen |
+
+### Tầng 4 – tấm nhóm
+
+![Tầng 4](character-sheet-tang-4.jpg)
+
+Quân, My, Phát, Bà Tư Bánh, Sơn, MC Thanh, Hoàng, Long. KOL và Khách trẻ hoá trang theo nghề. Chi tiết từng ô: [`nhan-vat-phu.md`](nhan-vat-phu.md).
 
 ## Ghi chú cho bộ phận hoá trang
 

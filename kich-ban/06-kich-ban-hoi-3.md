@@ -67,7 +67,7 @@ Tín bước vào. Qua cửa kính, anh nhìn lại xe phở. Chị Sáu gật m
 
 Ballroom lộng lẫy: năm mươi bàn tròn, đèn chùm, sân khấu với màn hình LED khổng lồ đang chiếu clip trẻ em vùng cao nhận thuốc. Một dàn nhạc nhẹ. Năm trăm người: doanh nhân, quan chức, nghệ sĩ, phóng viên.
 
-Khang ngồi cạnh Lực ở bàn số ba – hàng đầu. Anh quét phòng: Sẹo đứng ở cửa phụ bên trái, tai nghe, tay chắp sau lưng. Gã Xăm ở cửa phụ bên phải. Thêm bốn bảo vệ Hoàng Long rải rác.
+Khang ngồi cạnh Lực ở bàn số ba – hàng đầu. Anh quét phòng: Sẹo đứng ở cửa phụ bên trái, tai nghe, tay chắp sau lưng. Hổ ở cửa phụ bên phải. Thêm bốn bảo vệ Hoàng Long rải rác.
 
 Nam ngồi bàn số năm – trang phục dân sự, cười nói với một nữ doanh nhân. Anh ta thấy Khang. Giơ tay chào – vẫn cái cười dễ mến ấy. Khang gật lại. Mặt không gợn.
 
@@ -103,26 +103,26 @@ Hôm nay thì không.
 
 ### 55. NỘI. HÀNH LANG HẬU TRƯỜNG – PHÒNG KỸ THUẬT – ĐÊM
 
-Tín lẻn khỏi bàn, đi dọc hành lang phía sau sân khấu. Trước cửa **PHÒNG ĐIỀU KHIỂN ÂM THANH – ÁNH SÁNG**, một **KỸ THUẬT VIÊN** (25, áo đen, tai nghe) đang hút thuốc điện tử.
+Tín lẻn khỏi bàn, đi dọc hành lang phía sau sân khấu. Trước cửa **PHÒNG ĐIỀU KHIỂN ÂM THANH – ÁNH SÁNG**, **TRẦN KHOA** (25, áo đen, tai nghe) đang hút thuốc điện tử.
 
 **TÍN**
 (giọng gấp gáp, uy quyền)
 Em! Em là người chạy LED phải không?
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 Dạ… anh là ai?
 
 **TÍN**
 Anh là đạo diễn chương trình. Anh Vũ. Bên công ty sự kiện mới thay đạo diễn cũ sáng nay, không ai báo em hả?
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 Dạ không–
 
 **TÍN**
 (thở dài kiểu người bị đời phụ)
 Không ai báo gì hết. Anh nhận chương trình lúc mười một giờ sáng, giờ là tám giờ tối, kịch bản thay ba lần, clip mở màn còn chưa có bản final. Em có hiểu cảm giác đó không?
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 (gật, thấm thía)
 Dạ hiểu. Tuần trước em chạy đám cưới mà cô dâu đổi nhạc năm lần.
 
@@ -133,13 +133,13 @@ Anh cần em một chuyện. Có một clip phát sinh – Chủ tịch muốn c
 
 Anh đưa USB – USB thật của Hà, móc khoá hình con mèo.
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 Dạ nhưng em phải báo anh Tuấn bên–
 
 **TÍN**
 Anh Tuấn biết rồi. Anh Tuấn là người kêu anh xuống nói với em.
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 Anh Tuấn nào ạ? Bên em không có anh Tuấn.
 
 Tín không chớp mắt.
@@ -147,9 +147,9 @@ Tín không chớp mắt.
 **TÍN**
 Vậy là anh Tuấn bên Quỹ. Em thấy chưa, bên nào cũng có một anh Tuấn. Em lo cái đó làm gì. Em lo cái nút.
 
-Kỹ thuật viên nhìn USB. Nhìn Tín. Nhìn vest trắng. Cầm USB.
+Khoa nhìn USB. Nhìn Tín. Nhìn vest trắng. Cầm USB.
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 …Dạ. "SURPRISE". Anh giơ tay.
 
 **TÍN**
@@ -160,7 +160,7 @@ Anh quay đi. Bước ba bước. Dừng. Quay lại.
 **TÍN (TIẾP)**
 À, em. Nếu có ai – bất kỳ ai – chạy vào bảo em tắt, em cứ… em làm như em không biết tắt. Lỡ tay. Máy đơ. Em biết mà.
 
-**KỸ THUẬT VIÊN**
+**KHOA**
 (cười)
 Dạ, em làm nghề này ba năm, em biết đơ máy.
 
@@ -186,7 +186,7 @@ Trên sân thượng. Ngắm thành phố. Tôi nói rồi, tôi quý người l
 **KHANG**
 Cho tôi thấy.
 
-Nam lấy điện thoại, bấm. Quay màn hình về phía Khang: camera sân thượng – Mai ngồi trên ghế, tay bị trói ra sau, cạnh một chiếc trực thăng. Gã Mũ đứng canh. Cô ngẩng lên nhìn thẳng vào camera. Mắt không sợ. Mắt giận.
+Nam lấy điện thoại, bấm. Quay màn hình về phía Khang: camera sân thượng – Mai ngồi trên ghế, tay bị trói ra sau, cạnh một chiếc trực thăng. Việt đứng canh. Cô ngẩng lên nhìn thẳng vào camera. Mắt không sợ. Mắt giận.
 
 **KHANG**
 (với Nam, giọng bình thường)
@@ -208,9 +208,9 @@ USB.
 
 Khang rút từ túi áo trong một USB – đen, không móc khoá. Anh đặt lên bàn, không đưa tận tay.
 
-Bảo gật với Sẹo. Sẹo cầm USB, đưa cho một **GÃ IT** ngồi ở góc với laptop. Gã cắm vào.
+Bảo gật với Sẹo. Sẹo cầm USB, đưa cho **LONG** (26, IT Hoàng Long) ngồi ở góc với laptop. Long cắm vào.
 
-Màn hình laptop hiện thư mục: **1015**. Các file đúng tên. Gã IT mở `01_LoiKhai_OngTu.mp4` – video chạy: mặt ông Tư, giọng ông Tư. Gã IT gật với Bảo.
+Màn hình laptop hiện thư mục: **1015**. Các file đúng tên. Long mở `01_LoiKhai_OngTu.mp4` – video chạy: mặt ông Tư, giọng ông Tư. Long gật với Bảo.
 
 **BẢO**
 (thở ra, hài lòng)
@@ -226,16 +226,16 @@ Màn hình laptop **tối đen**. Rồi hiện lên một dòng chữ trắng kh
 
 Rồi tiếng *"meo"* phát ra từ loa laptop, lặp lại không ngừng. *Meo. Meo. Meo.*
 
-Gã IT đập bàn phím. Không phản ứng. Rút USB. Màn hình vẫn đen. *Meo. Meo.*
+Long đập bàn phím. Không phản ứng. Rút USB. Màn hình vẫn đen. *Meo. Meo.*
 
-**GÃ IT**
+**LONG**
 Nó… nó khoá máy. Em không–
 
 **BẢO**
 (giọng vẫn đều, nhưng mắt đổi)
 File bên trong?
 
-**GÃ IT**
+**LONG**
 Em mới mở được một file. Mấy file kia em chưa copy. Giờ máy…
 
 *Meo.*
@@ -261,7 +261,7 @@ Tôi hơi tiếc. Thầy phong thuỷ của anh phán hay thật.
 
 Hắn đi ra. Nam đi theo – ngang qua Khang, không nhìn.
 
-Cửa đóng. Trong phòng còn Khang, Sẹo, hai bảo vệ, và gã IT đang bị con mèo điện tử ám.
+Cửa đóng. Trong phòng còn Khang, Sẹo, hai bảo vệ, và Long đang bị con mèo điện tử ám.
 
 Sẹo cởi áo vest. Gập lại. Đặt lên ghế.
 
@@ -278,9 +278,9 @@ Anh lao ra cửa – không phải cửa chính. Cửa phụ – ghi **"KITCHEN 
 
 ### 57. NỘI. BẾP TRUNG TÂM KHÁCH SẠN – TẦNG 20 – ĐÊM – ĐẤU TAY ĐÔI
 
-Bếp phục vụ tiệc: dài, sáng, inox loá mắt. Ba mươi đầu bếp và phục vụ đang chạy việc – gala năm trăm khách. Khang lao vào giữa, Sẹo theo sau, hai bảo vệ theo sau nữa.
+Bếp phục vụ tiệc: dài, sáng, inox loá mắt. Ba mươi đầu bếp và phục vụ đang chạy việc – gala năm trăm khách. **SƠN** (48, bếp trưởng, tạp dề trắng ướt) đứng giữa đảo bếp. Khang lao vào giữa, Sẹo theo sau, hai bảo vệ theo sau nữa.
 
-**BẾP TRƯỞNG**
+**SƠN**
 (hét)
 Ê! Ai cho vô đây?!
 
@@ -290,14 +290,14 @@ Bảo vệ thứ hai rút dùi cui. Khang giật một chảo gang từ bếp đ
 
 Sẹo không vội. Hắn đi dọc bếp, nhặt một con dao thái – không phải dao to, con dao nhỏ, dao gọt – thứ người biết dùng dao chọn.
 
-Đầu bếp chạy tán loạn. Bếp trưởng vẫn đứng, hai tay chống nạnh.
+Đầu bếp chạy tán loạn. Sơn vẫn đứng, hai tay chống nạnh.
 
-**BẾP TRƯỞNG**
+**SƠN**
 Tao không biết mấy người là ai, nhưng đứa nào đụng nồi súp của tao–
 
 Sẹo hất nồi súp.
 
-**BẾP TRƯỞNG (TIẾP)**
+**SƠN (TIẾP)**
 (quay lưng, bỏ đi)
 Được rồi. Tao gọi bảo vệ.
 
@@ -343,16 +343,16 @@ Anh lảo đảo đi ra cửa thoát hiểm. Cầu thang lên sân thượng.
 
 ### 58. NỘI. BALLROOM – CÙNG LÚC
 
-MC trên sân khấu, giọng truyền cảm.
+**MC THANH** (38, vest kim sa, mic không dây) trên sân khấu, giọng truyền cảm.
 
-**MC**
+**MC THANH**
 …và bây giờ, xin mời quý vị cùng hướng lên màn hình, để lắng nghe thông điệp từ người sáng lập Quỹ Trái Tim Vàng–
 
 Màn hình LED: clip Bảo thu sẵn, đứng giữa cánh đồng, nói về "trao hy vọng".
 
 Ở bàn mười hai, Tín nhìn điện thoại: tin nhắn từ Khang, gửi ba phút trước: *"Xong trao đổi. Hắn lên sân thượng. Tới lượt cậu."*
 
-Tín đứng dậy. Tay run. Anh nhìn về bàn số ba – Lực ngồi đó, nhìn thẳng anh, gật một cái. Anh nhìn về cửa phụ – Gã Xăm còn đứng đó, nhưng đang nghe tai nghe, mặt căng, rồi **bỏ chạy về phía bếp**. Cửa phụ trống.
+Tín đứng dậy. Tay run. Anh nhìn về bàn số ba – Lực ngồi đó, nhìn thẳng anh, gật một cái. Anh nhìn về cửa phụ – Hổ còn đứng đó, nhưng đang nghe tai nghe, mặt căng, rồi **bỏ chạy về phía bếp**. Cửa phụ trống.
 
 Tín hít một hơi. Bật gimbal. Livestream: **1.200 người xem** – video "Thám tử Tín tại gala" đang được share.
 
@@ -384,7 +384,7 @@ Mic run trong tay. Anh im.
 
 Một giây. Hai giây. Ba giây.
 
-**MC**
+**MC THANH**
 (cười gượng)
 Dạ, hình như bạn KOL của chúng ta hơi–
 
@@ -405,7 +405,7 @@ Anh quay sang màn hình LED – vẫn đang chiếu logo Quỹ – rồi quay l
 Kịch bản đêm nay là: "Trao thuốc, trao hy vọng."
 (giơ tay lên – tín hiệu)
 
-Trong phòng kỹ thuật, kỹ thuật viên thấy. Anh nhìn quanh – không ai – bấm.
+Trong phòng kỹ thuật, Khoa thấy. Anh nhìn quanh – không ai – bấm.
 
 Màn hình LED đổi. Mặt ông Tư Đờn, trong chòi lá, giọng khàn:
 
@@ -455,7 +455,7 @@ Màn hình LED hiện khung cuối – một dòng chữ Hà để sẵn trong v
 
 ### 60. NGOẠI. SÂN THƯỢNG KHÁCH SẠN ĐẾ VƯƠNG – ĐÊM
 
-Gió. Thành phố dưới chân – giống hệt sân thượng Skyline, chỉ cao hơn. Trực thăng đậu giữa bãi, cánh quạt bắt đầu quay chậm. Gã Mũ kéo Mai – tay vẫn trói – về phía cửa trực thăng. Nam đứng cạnh, điện thoại áp tai, mặt tái.
+Gió. Thành phố dưới chân – giống hệt sân thượng Skyline, chỉ cao hơn. Trực thăng đậu giữa bãi, cánh quạt bắt đầu quay chậm. Việt kéo Mai – tay vẫn trói – về phía cửa trực thăng. Nam đứng cạnh, điện thoại áp tai, mặt tái.
 
 **NAM**
 (vào điện thoại)
@@ -468,25 +468,25 @@ Cửa thoát hiểm bật mở. Bảo bước ra, thở, vest xộc xệch – h
 **BẢO**
 Lên máy bay. Ngay.
 
-**PHI CÔNG**
+**HOÀNG** (41, phi công thuê, tai nghe phi công)
 (thò đầu ra)
 Anh Bảo, dưới kia toàn công an, tôi không cất–
 
 **BẢO**
 Tôi trả anh gấp mười.
 
-**PHI CÔNG**
+**HOÀNG**
 Gấp mười cũng không ai bay cho tôi trong tù.
 
-Phi công tắt máy, nhảy xuống, bỏ chạy về cầu thang.
+Hoàng tắt máy, nhảy xuống, bỏ chạy về cầu thang.
 
 Bảo đứng giữa sân thượng. Trực thăng im dần. Hắn nhìn quanh. Lần đầu tiên trong phim, hắn không có kịch bản.
 
 Cửa thoát hiểm lại mở. Khang. Ướt, đỏ, máu ở thái dương, một tay ôm sườn. Anh bước ra.
 
-Gã Mũ rút súng. Chĩa vào Mai.
+Việt rút súng. Chĩa vào Mai.
 
-**GÃ MŨ**
+**VIỆT**
 Đứng lại!
 
 Khang đứng lại.
@@ -520,7 +520,7 @@ Dũng là bốn trăm triệu.
 (gào lên)
 Mày nghĩ lương tụi mình nuôi nổi ai?! Mẹ tao nằm viện! Mày không có ai để nuôi nên mày trong sạch! Dễ lắm! Dễ lắm Khang!
 
-Khang không trả lời. Anh nhìn Mai. Mai nhìn lại anh. Rồi cô nhìn xuống – mắt cô liếc túi áo khoác của mình. Rồi nhìn Gã Mũ. Khang hiểu.
+Khang không trả lời. Anh nhìn Mai. Mai nhìn lại anh. Rồi cô nhìn xuống – mắt cô liếc túi áo khoác của mình. Rồi nhìn Việt. Khang hiểu.
 
 **KHANG**
 (với Bảo, bước một bước)
@@ -546,7 +546,7 @@ Bảo quay lại nhìn cô. Có một giây hắn định đáp.
 
 Giây đó là đủ.
 
-Mai – đã tự cứa dây trói bằng **mảnh vỏ thuỷ tinh ống tiêm** trong túi áo khoác suốt mười phút qua (cô là dược sĩ, túi cô lúc nào cũng có ống thuốc) – vung tay. Mảnh thuỷ tinh cứa ngang mu bàn tay cầm súng của Gã Mũ. Hắn hét, súng rơi. Mai đá súng văng ra xa, lăn tới mép sân thượng.
+Mai – đã tự cứa dây trói bằng **mảnh vỏ thuỷ tinh ống tiêm** trong túi áo khoác suốt mười phút qua (cô là dược sĩ, túi cô lúc nào cũng có ống thuốc) – vung tay. Mảnh thuỷ tinh cứa ngang mu bàn tay cầm súng của Việt. Hắn hét, súng rơi. Mai đá súng văng ra xa, lăn tới mép sân thượng.
 
 Khang lao vào Nam – Nam vừa kịp giơ tay – Khang húc. Hai người ngã trên mặt bê tông. Nam đánh trả: hai người cùng được huấn luyện, cùng một thầy, cùng những thế đánh. Khang mệt hơn, nhưng Khang không còn gì để mất. Anh đè được Nam xuống, khuỷu tay chẹn cổ.
 
@@ -561,7 +561,7 @@ Nhưng Dũng không muốn. Nó tha cho mày hoài. Nó ngu như tao.
 
 Anh đạp Nam một cái vào sườn – không để giết, để nằm im. Nam cuộn lại, ho.
 
-Khang quay lại. Gã Mũ đã bỏ chạy xuống cầu thang. Mai đứng, tay chảy máu, ôm cổ tay.
+Khang quay lại. Việt đã bỏ chạy xuống cầu thang. Mai đứng, tay chảy máu, ôm cổ tay.
 
 Và Bảo đang đứng **trên bệ lan can** sân thượng. Hai tay dang. Gió thổi áo vest.
 
@@ -758,11 +758,41 @@ Cho em hai tô "Phở Thám Tử"!
 **CHỊ SÁU**
 Phở tái nạm. Tên là tên, phở là phở.
 
+### 63A. NGOẠI. HẺM QUẬN 4 – QUÁN PHỞ – TIẾP
+
+Một chiếc xe ôm dừng. **PHẠM THỊ HOA** (58, áo bà ba lụa nhạt, tóc búi, mang theo một nồi cơm bọc khăn) bước xuống. Bà nhìn biển **PHỞ THÁM TỬ**. Nhìn Tín đang livestream với khách trẻ.
+
+Tín thấy mẹ. Ring light còn sáng. Anh tắt.
+
+**TÍN**
+Mẹ… mẹ xuống Quận 4?
+
+**HOA**
+Con nói con làm chuyện phải làm. Mẹ xem clip. Hai triệu người xem. Mẹ không hiểu hết. Mẹ hiểu con không nổ nữa.
+(đưa nồi)
+Cơm. Con gầy.
+
+**TÍN**
+Dạ.
+
+Hoa nhìn chị Sáu. Hai người đàn bà gật với nhau một cái – không cần giới thiệu.
+
+**CHỊ SÁU**
+Ngồi. Tô đặc biệt. Không tính.
+
+Hoa ngồi. Ăn. Không hỏi Campuchia. Không hỏi follow. Tín ngồi đối diện, hai tay để dưới bàn, im. Lần thứ tư trong phim – và lần đầu vì vui.
+
+**HOA**
+(với Khang, khi anh bước ra)
+Cảm ơn anh. Nó về nhà nói dóc hai năm. Ở đây nó nói thật.
+
+Khang gật. Không đáp. Anh kéo ghế. Ngồi. Ăn.
+
 ### 64. NỘI. VĂN PHÒNG THÁM TỬ – TẦNG 2 – NGÀY
 
 Căn gác sửa lại. Sofa mới (vẫn rẻ). Tủ hồ sơ sắt mới. Bàn thờ ông Địa mới – ly cà phê sữa, và thêm một gói mì sữa trứng.
 
-Trên tường, một khung ảnh nhỏ: bài báo in ra – **"BÌNH CHÁNH: AI THỰC SỰ LÀM LỘ KẾ HOẠCH?" – Vũ Thanh Hà** – lần này có ngày đăng.
+Trên tường, một khung ảnh nhỏ: bài báo in ra – **"BÌNH CHÁNH: AI THỰC SỰ LÀM LỘ KẾ HOẠCH?" – Vũ Thanh Hà** – lần này có ngày đăng. Cạnh đó, khung 4x6 cũ của Dũng – vẫn không hoa, vẫn dấu V.
 
 Cạnh cửa, một cái móc treo chìa khoá. Trên đó: một chìa khoá tủ điện tử có thẻ nhựa: **GA SÀI GÒN – TỦ 1015**.
 
@@ -828,4 +858,4 @@ Tiếng *tạch* của một cái tủ gửi đồ mở ra.
 ### GHI CHÚ CHO CREDITS
 
 - Credits chạy trên nền video điện thoại của Tín: 2 phút hậu trường "Thám tử Tín hướng dẫn nấu mì sữa trứng", chị Sáu đứng sau lưng lắc đầu, mèo ngồi trên nồi.
-- Mid-credits (15 giây): Phòng kỹ thuật khách sạn. Kỹ thuật viên ngồi trước máy, điện thoại rung. Tin nhắn từ số lạ: *"Em ơi, anh Vũ đây. Hôm bữa quên hỏi, em làm freelance không? Anh có show."* Anh ta nhìn tin nhắn. Gõ: *"Anh Tuấn nào giới thiệu ạ?"*
+- Mid-credits (15 giây): Phòng kỹ thuật khách sạn. Trần Khoa ngồi trước máy, điện thoại rung. Tin nhắn từ số lạ: *"Em ơi, anh Vũ đây. Hôm bữa quên hỏi, em làm freelance không? Anh có show."* Khoa nhìn tin nhắn. Gõ: *"Anh Tuấn nào giới thiệu ạ?"*

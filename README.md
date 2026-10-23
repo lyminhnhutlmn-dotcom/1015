@@ -36,6 +36,8 @@ Thiết kế tạo hình 8 nhân vật chính theo phong cách Sài Gòn 2026: h
 |---|---|
 | [`kich-ban/01-tong-quan.md`](kich-ban/01-tong-quan.md) | Logline, tóm tắt, chủ đề, tông phim, ý nghĩa con số 1015 |
 | [`kich-ban/02-nhan-vat.md`](kich-ban/02-nhan-vat.md) | Hồ sơ nhân vật chính, phụ, phản diện và sơ đồ quan hệ |
+| [`kich-ban/07-toan-bo-nhan-vat.md`](kich-ban/07-toan-bo-nhan-vat.md) | **Toàn bộ 32 vai có tên** + khoá mặt Khang ≠ Nam ≠ Bảo ≠ Lực |
+| [`boi-canh/boi-canh-anh-sang.md`](boi-canh/boi-canh-anh-sang.md) | 12 plate bối cảnh, ánh sáng ba lớp, gộp lịch quay |
 | [`kich-ban/03-cau-truc.md`](kich-ban/03-cau-truc.md) | Beat sheet ba hồi, đường dây hài của Tín, đường dây "1015" |
 | [`kich-ban/04-kich-ban-hoi-1.md`](kich-ban/04-kich-ban-hoi-1.md) | **Hồi 1** – Cái chết và bốn con số (cảnh 1–22) |
 | [`kich-ban/05-kich-ban-hoi-2.md`](kich-ban/05-kich-ban-hoi-2.md) | **Hồi 2** – Mở rộng, sụp đổ và sự thật (cảnh 23–50) |
