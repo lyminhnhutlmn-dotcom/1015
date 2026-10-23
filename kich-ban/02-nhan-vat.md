@@ -93,10 +93,12 @@ Những vai này đã có trong kịch bản nhưng trước đây chỉ là ch�
 
 ### TRẦN MỸ LINH (33) – Biên tập viên Báo Sài Gòn Mới  *(mới thêm)*
 
+- Mặt ngắn rộng, mái thưa, kính gọng đen dày. **Không** cùng khuôn với Hà / Hương.
 - Đồng nghiệp Hà, người gỡ bài Bình Chánh theo "điện thoại từ trên". Không phải ác: cô sợ mất việc, nuôi mẹ. Cảnh 9A: đưa Khang bản nháp Hà gửi đêm trước khi chết, rồi xin đừng nói là cô đưa. Chính cô giải thích vì sao "ba toà soạn sẽ gỡ" – và vô tình chỉ ra lối thoát của Hà: phải nói trước đám đông, không phải trước toà soạn.
 
 ### LÊ THỊ HƯƠNG (34) và BÉ MINH (4)  *(mới thêm)*
 
+- Mặt tròn, đuôi ngựa cao rối, không kính. **Không** cùng khuôn với Hà / Linh.
 - Mẹ đơn thân, khoa nhi. Bé Minh từng uống lô AS-AMX-2309-17 do Mai phát. Cảnh 40A: Minh viêm phổi lại, Hương hỏi Mai sao thuốc "không chịu". Mai nhận ra đứa thứ hai mươi ba không còn là số trên sổ. Không cần cho trẻ em chết trên màn ảnh – chỉ cần một bà mẹ không hiểu vì sao con không khỏi.
 
 ### PHẠM THỊ HOA (58) – Mẹ Tín  *(thêm mặt, trước chỉ có giọng)*
