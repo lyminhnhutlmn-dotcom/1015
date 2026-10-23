@@ -6,7 +6,18 @@ Phim hành động – điều tra hình sự, pha hài. Thời lượng dự ki
 
 Một cựu cảnh sát hình sự bị đuổi khỏi ngành, một cậu trợ lý "nổ" như pháo, và em gái của một nữ nhà báo vừa chết, lần theo bốn con số **1015** để lật tẩy đường dây thuốc giả núp bóng quỹ từ thiện – và kẻ phản bội đã khiến đồng đội anh chết hai năm trước.
 
-## Mục lục
+## Bản đọc trọn bộ (khuyên dùng)
+
+Toàn bộ kịch bản gộp thành một tài liệu duy nhất (bìa, mục lục, 6 phần, ~95 trang A4) trong thư mục `xuat-ban/`:
+
+| File | Mở bằng |
+|---|---|
+| [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.pdf`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.pdf) | Bất kỳ trình đọc PDF, điện thoại, trình duyệt |
+| [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.docx`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.docx) | Microsoft Word, Google Docs, LibreOffice |
+| [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.html`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.html) | Trình duyệt web |
+| [`xuat-ban/Ho-So-1015-Kich-Ban-Phim.txt`](xuat-ban/Ho-So-1015-Kich-Ban-Phim.txt) | Notepad hoặc bất kỳ trình soạn thảo nào |
+
+## Mục lục bản nguồn (Markdown)
 
 | File | Nội dung |
 |---|---|
